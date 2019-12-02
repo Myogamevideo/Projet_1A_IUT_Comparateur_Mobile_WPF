@@ -1,0 +1,257 @@
+﻿<Controls:MetroWindow x:Class="EasyPhone.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:MyNamespace1="clr-namespace:EasyPhone.customcontrol;assembly=EasyPhone.customcontrol"
+        mc:Ignorable="d"
+        Title="EasyPhone - Admin" 
+        MinWidth="1280" Width="1280" MaxWidth="1280"
+        MinHeight="720" Height="720" MaxHeight="720"
+        WindowStartupLocation="CenterScreen"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        Icon="/Capture2.ico"
+        ShowIconOnTitleBar="True"
+        ShowTitleBar="True"
+        >
+
+     <StackPanel>
+        <StackPanel Orientation="Horizontal" Background="#FF999993">
+            <Button Width="50" Height="50" Style="{DynamicResource MetroCircleButtonStyle}" Click="Button_Click_Home">
+                <iconPacks:PackIconMaterial Width="30" Height="30" Kind="Home"/>
+            </Button>
+            <TextBlock HorizontalAlignment="Center" Text="E@syPhone ⛄" FontSize="30" FontWeight="Bold" TextAlignment="Center" Margin="10,10,900,10"/>
+            <Button Width="50" Height="50" Style="{DynamicResource MetroCircleButtonStyle}" Click="Button_Click_Account">
+                <iconPacks:PackIconMaterial Width="30" Height="30" Kind="AccountCircle"/>
+            </Button>
+            <Button Width="50" Height="50" Style="{DynamicResource MetroCircleButtonStyle}" Click="SauvegarderButton_Click">
+                <iconPacks:PackIconMaterial Width="20" Height="20" Kind="Download"/>
+            </Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Background="Beige">
+            <StackPanel Width="300" Height="630" Background="Bisque" VerticalAlignment="Top">
+                <ListBox Name="ltcompte" Width="300" Height="290" Background="Bisque" ItemsSource="{Binding Listc}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <ScrollViewer CanContentScroll="True">
+                                <StackPanel>
+                                    <TextBlock Margin="10" Text="{Binding titre}" FontSize="30" HorizontalAlignment="Center"></TextBlock>
+                                    <Image Source="{Binding Image}" Width="128" Height="128"/>
+                                    <StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Margin="10,0,10,0" Text="Identifiant :" FontSize="15"></TextBlock>
+                                            <TextBlock Margin="10,0,10,0" Text="{Binding ID}" FontSize="15"></TextBlock>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Margin="10,0,10,0" Text="Nom :" FontSize="15"></TextBlock>
+                                            <TextBlock Margin="10,0,10,0" Text="{Binding Nom}" FontSize="15"></TextBlock>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Margin="10,0,10,0" Text="Prenom :" FontSize="15"></TextBlock>
+                                            <TextBlock Margin="10,0,10,0" Text="{Binding Prenom}" FontSize="15"></TextBlock>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Margin="10,0,10,0" Text="E-mail :" FontSize="15"></TextBlock>
+                                            <TextBlock Margin="10,0,10,0" Text="{Binding Email}" FontSize="15"></TextBlock>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </StackPanel>
+                            </ScrollViewer>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <ListBox Width="300" Name="ltmarque2" Height="320" Margin="0,10,0,0" Background="Beige" SelectionChanged="Ltmarque2_SelectionChanged">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="{Binding ImageMarque}" Width="32" Height="32"/>
+                                <TextBlock Margin="20,0,0,0" Text="{Binding TitleMarque}" VerticalAlignment="Center" FontFamily="Verdana" FontSize="15" FontWeight="Bold"></TextBlock>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </StackPanel>
+            <StackPanel Background="BlanchedAlmond" Height="630">
+                <StackPanel Name="ListeMarque" VerticalAlignment="Top">
+                <ListView Name="ltmarque" Visibility="Visible" Margin="10" Height="100">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Nom de la marque" Width="110" DisplayMemberBinding="{Binding TitleMarque}" />
+                            <GridViewColumn Header="Chemin du logo" Width="130" DisplayMemberBinding="{Binding ImageMarque}" />
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBox Margin="10,0,0,0" Name="textBox3" Width="200" SpellCheck.IsEnabled="True" Text="Nom de la marque *" Language="fr-FR"/>
+                            <Button Margin="10,0,0,0" Click="buttonRajouter_Click" Content="Rajouter" FontSize="13"></Button>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Button Margin="10,0,0,0" Name="btnOpenFile" Click="btnOpenFile_Click">Choisir logo *</Button>
+                            <TextBox Margin="10,0,0,0" Name="textBox4" Width="100" SpellCheck.IsEnabled="True" Text="Chemin du logo" Language="fr-FR"/>
+                            <Button Margin="10,0,0,0" Click="buttonSupprimer_Click" Content="Supprimer" FontSize="13" Width="90" HorizontalAlignment="Right"></Button>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Name="ListePrix" VerticalAlignment="Top">
+                    <ListView Name="ltprix" Visibility="Visible" Margin="10" Height="100" Width="280">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Vendeur" Width="70" DisplayMemberBinding="{Binding TitleVendeur}" />
+                                <GridViewColumn Header="Chemin du logo" Width="130" DisplayMemberBinding="{Binding ImageVendeur}" />
+                                <GridViewColumn Header="Prix" Width="60" DisplayMemberBinding="{Binding Prix}" />
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBox Margin="10,0,0,0" Name="textBox18" Width="100" SpellCheck.IsEnabled="True" Text="Nom du vendeur *" Language="fr-FR"/>
+                            <TextBox Margin="10,0,0,0" Name="textBox20" Width="90" SpellCheck.IsEnabled="True" Text="Prix *" Language="fr-FR"/>
+                            <Button Margin="10,0,0,0" Click="buttonRajouter_Click" Content="Rajouter" FontSize="13"></Button>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Button Margin="10,0,0,0" Name="btnOpenFile2" Click="btnOpenFile_Click2">Choisir logo *</Button>
+                            <TextBox Margin="10,0,0,0" Name="textBox19" Width="100" SpellCheck.IsEnabled="True" Text="Chemin du logo" Language="fr-FR"/>
+                            <Button Margin="10,0,0,0" Click="buttonSupprimer_Click" Content="Supprimer" FontSize="13" Width="90" HorizontalAlignment="Right"></Button>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <ListBox Margin="0,20,0,0" Name="lttelephone" Height="240" Background="Beige" VerticalAlignment="Bottom" SelectionChanged="Lttelephone_SelectionChanged" Width="300">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                                <TextBlock Margin="20,0,0,0" Text="{Binding Title}"  FontSize="20" FontWeight="Bold"></TextBlock>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </StackPanel>
+            <ListBox Margin="10,0,0,0" Name="lttelephoneapercu" Height="630" Width="350" Background="Beige" VerticalAlignment="Bottom">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <ScrollViewer CanContentScroll="True">
+                            <StackPanel Height="610" Width="360">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="Nom :"  FontSize="20"></TextBlock>
+                                    <TextBlock  Name="textBox18" Margin="10,0,0,0" Text="{Binding Title}"  FontSize="15"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="Chemin Image :"  FontSize="20"></TextBlock>
+                                    <TextBlock Name="textBox19" Margin="10,0,0,0" Text="{Binding Image}"  FontSize="15"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="Note :"  FontSize="20"></TextBlock>
+                                    <TextBlock Margin="10,0,0,0" Name="textBox20" Text="{Binding Note}"  FontSize="15"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="TopPrix :"  FontSize="20"></TextBlock>
+                                    <TextBlock Margin="10,0,0,0" Text="{Binding TopPrix}" Name="textBox21"  FontSize="15"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="Conclusion :"  FontSize="20"></TextBlock>
+                                    <TextBlock Margin="10,0,0,0" Text="{Binding Conclusion}"  FontSize="15" Name="textBox22" TextWrapping="Wrap" Width="200"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="PointFort1 :"  FontSize="20" Name="textBox23"></TextBlock>
+                                    <TextBlock Margin="10,0,0,0" Text="{Binding PointFort1}"  FontSize="15" TextWrapping="Wrap" Width="200"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="PointFort2 :"  FontSize="20" ></TextBlock>
+                                    <TextBlock Margin="10,0,0,0" Text="{Binding PointFort2}"  Name="textBox24" FontSize="15" TextWrapping="Wrap" Width="200"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="PointFort3 :"  FontSize="20"></TextBlock>
+                                    <TextBlock Margin="10,0,0,0" Text="{Binding PointFort3}"  FontSize="15" Name="textBox25" TextWrapping="Wrap" Width="200"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="PointFaible1 :"  FontSize="20"></TextBlock>
+                                    <TextBlock Margin="10,0,0,0" Text="{Binding PointFaible1}"  FontSize="15" TextWrapping="Wrap" Name="textBox26" Width="200"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="PointFaible2 :"  FontSize="20"></TextBlock>
+                                    <TextBlock Margin="10,0,0,0" Text="{Binding PointFaible2}"  FontSize="15" TextWrapping="Wrap" Width="200" Name="textBox27"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="PointFaible3 :"  FontSize="20"></TextBlock>
+                                    <TextBlock Margin="10,0,0,0" Text="{Binding PointFaible3}"  FontSize="15" TextWrapping="Wrap" Width="200" Name="textBox28"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="Article1 :"  FontSize="20"></TextBlock>
+                                    <TextBlock Margin="10,0,0,0" Text="{Binding Article1}"  FontSize="15" TextWrapping="Wrap" Width="200" Name="textBox29"><Hyperlink NavigateUri="{Binding Article1}"></Hyperlink></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="10,0,0,0" Text="Article2 :"  FontSize="20"></TextBlock>
+                                    <TextBlock Margin="10,0,0,0" Text="{Binding Article2}"  FontSize="15" TextWrapping="Wrap" Width="200" Name="textBox30"><Hyperlink NavigateUri="{Binding Article2}"></Hyperlink></TextBlock>
+                                </StackPanel>
+                            </StackPanel>
+                        </ScrollViewer>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <StackPanel>
+                <ScrollViewer CanContentScroll="True">
+                    <StackPanel Height="600" Width="310">
+                        <TextBlock Background="Red" Margin="10,10,0,10" Text="⚠ Veuillez sélectionner une marque avant l'ajout et/ou la suppression d'un téléphone ⚠" FontSize="15" TextWrapping="Wrap" Width="280"></TextBlock>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="Nom * :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox5" FontSize="15" Width="220"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Button Margin="10,0,0,0" Name="btnOpenFile3" Click="btnOpenFile_Click3">Choisir image *</Button>
+                            <TextBox Margin="10,0,0,0" Name="textBox6" FontSize="15" Width="185"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="Note * :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox7" FontSize="15" Width="225"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="TopPrix * :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox8" FontSize="15" Width="210"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="Conclusion :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox9" FontSize="15" TextWrapping="Wrap" Width="175"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="PointFort1 :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox10" FontSize="15" TextWrapping="Wrap" Width="180"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="PointFort2 :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox11" FontSize="15" TextWrapping="Wrap" Width="180"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="PointFort3 :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox12" FontSize="15" TextWrapping="Wrap" Width="180"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="PointFaible1 :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox13" FontSize="15" TextWrapping="Wrap" Width="170"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="PointFaible2 :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox14" FontSize="15" TextWrapping="Wrap" Width="170"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="PointFaible3 :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox15" FontSize="15" TextWrapping="Wrap" Width="170"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="Artitcle1 :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox16" FontSize="15" TextWrapping="Wrap" Width="200"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Margin="10,0,0,0" Text="Artitcle2 :"  FontSize="20"></TextBlock>
+                            <TextBox Margin="10,0,0,0" Name="textBox17" FontSize="15" TextWrapping="Wrap" Width="200"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Button Margin="10,10,0,0" Click="buttonSupprimerArticle_Click" Content="Supprimer mobile" FontSize="13" Width="140" Name="AjouterTelephone"></Button>
+                            <Button Margin="10,10,0,0" Click="buttonRajouterArticle_Click" Content="Rajouter mobile" FontSize="13" Width="130"></Button>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Controls:MetroWindow>

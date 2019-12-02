@@ -1,0 +1,13 @@
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\obj\Debug\EasyPhone.customcontrol.csprojAssemblyReference.cache
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\obj\Debug\EasyPhone.customcontrol_MarkupCompile.cache
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\obj\Debug\EasyPhone.customcontrol_MarkupCompile.lref
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\obj\Debug\EasyPhone.customcontrol.dll
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\obj\Debug\EasyPhone.customcontrol.pdb
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\bin\Debug\EasyPhone.customcontrol.dll
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\bin\Debug\EasyPhone.customcontrol.pdb
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\obj\Debug\Themes\Generic.baml
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\obj\Debug\EasyPhone.customcontrol.g.resources
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\obj\Debug\EasyPhone.customcontrol.Properties.Resources.resources
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\obj\Debug\EasyPhone.customcontrol.csproj.GenerateResource.cache
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\obj\Debug\EasyPhone.customcontrol.csproj.CoreCompileInputs.cache
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.customcontrol\obj\Debug\GeneratedInternalTypeHelper.g.cs

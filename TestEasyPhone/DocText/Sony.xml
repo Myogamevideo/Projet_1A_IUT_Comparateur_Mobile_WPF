@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<ArrayOfTelephone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Telephone>
+    <Title>Sony Xperia XZ3</Title>
+    <Image>/Image\sony-xperia-xz3.png</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>509.88 €</TopPrix>
+    <Conclusion>Le Xperia XZ3 est sans nul doute l'un des meilleurs smartphones de Sony ces dernières années. Son écran est quasiment impeccable, ses performances photo n'ont pas à rougir face à la concurrence et il a de la puissance à revendre. Malheureusement, une autonomie trop juste le fait passer à côté de sa cinquième étoile. Couplez ça à une ergonomie toujours aussi hasardeuse et vous obtenez un mobile certes plein de qualités techniques, mais qui n'est malheureusement pas au niveau de la concurrence. </Conclusion>
+    <PointFort1>Un design réussi.</PointFort1>
+    <PointFort2>Une dalle de qualité.</PointFort2>
+    <PointFort3>Des photos en basse luminosité riches en détails. </PointFort3>
+    <PointFaible1>Autonomie trop faible par rapport à la concurrence.</PointFaible1>
+    <PointFaible2>Le placement des boutons et, surtout, du capteur d'empreintes toujours aussi mal pensé.</PointFaible2>
+    <PointFaible3>Trop de grain sur les photos en basse luminosité.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/sony-xperia-xz3-p45237/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Sony Xperia XZ2 Compact</Title>
+    <Image>/Image\sony-xz2compact.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>429.98 €</TopPrix>
+    <Conclusion>Le Xperia XZ2 Compact signe un retour intéressant de la famille de petits smartphones Sony. Ceux qui réclamaient un XZ1 Compact avec un meilleur taux d'occupation d'écran sont servis. Le XZ2 Compact est l'un des derniers représentants du haut de gamme en format si contenu. Dommage que l'autonomie ne soit pas aussi solide que par le passé, car Sony a enfin trouvé la recette pour faire de belles photos avec ses smartphones. Le Xperia XZ2 Compact est un excellent choix pour ceux qui ne veulent pas s'encombrer les poches avec des pelles à tarte ni sacrifier les performances. </Conclusion>
+    <PointFort1>Excellentes finitions et étanchéité IP68.</PointFort1>
+    <PointFort2>Smartphone utilisable d'une seule main.</PointFort2>
+    <PointFort3>Écran bien calibré. </PointFort3>
+    <PointFaible1>Pas de prise jack 3,5 mm.</PointFaible1>
+    <PointFaible2>Lecteur d'empreinte trop bas.</PointFaible2>
+    <PointFaible3>Autonomie décevante pour un Xperia Compact.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/sony-xperia-xz2-compact-p43239/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Sony Xperia XZ2</Title>
+    <Image>/Image\sony-xz2.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>359.99 €</TopPrix>
+    <Conclusion>Sony a indéniablement progressé depuis l'année dernière. Le design de ce Xperia XZ2 semble enfin en phase avec le reste du marché, le constructeur est enfin parvenu à maîtriser la photographie sur ses smartphones et, pour ne rien gâcher, l'autonomie, même si elle n'est pas exceptionnelle, est plutôt bonne. Oui, mais voilà : rattraper simplement son retard ne suffit pas tout à fait alors que la concurrence se démène pour établir de nouveaux records. Difficile donc de mettre ce XZ2 au même niveau que le OnePlus 5T, le Samsung Galaxy S9 ou l'Apple iPhone X qui, eux, font moins de concessions. Néanmoins, le Xperia XZ2 reste un bon mobile et apporte un vrai vent de fraîcheur pour les amateurs de la marque. </Conclusion>
+    <PointFort1>Sony produit enfin des photos (presque) aussi bonnes que celles de ses concurrents.</PointFort1>
+    <PointFort2>Écran bien calibré après quelques bidouilles.</PointFort2>
+    <PointFort3>Performances au top. </PointFort3>
+    <PointFaible1>Capteur d'empreinte mal placé.</PointFaible1>
+    <PointFaible2>Aimant à traces de doigts.</PointFaible2>
+    <PointFaible3>Adaptateur USB-C-jack de piètre qualité. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/sony-xperia-xz2-p43241/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Sony Xperia XA2 Plus</Title>
+    <Image>/Image\sony-xperia-xa2-plus.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>245.99 €</TopPrix>
+    <Conclusion>Le Sony Xperia XA2 Plus est un smartphone intéressant dans l'ensemble. Son grand écran et son excellente autonomie en font un très bon choix. En revanche, si vous mettez un accent particulier sur la photo, tournez-vous plutôt vers le Honor 10.</Conclusion>
+    <PointFort1>Finitions.</PointFort1>
+    <PointFort2>Déclencheur physique pour la photo.</PointFort2>
+    <PointFort3>Écran bien calibré. </PointFort3>
+    <PointFaible1>Partie photo moyenne.</PointFaible1>
+    <PointFaible2>Sortie casque décevante.</PointFaible2>
+    <PointFaible3>Version datée d'Android.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/sony-xperia-xa2-plus-p45177/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Sony Xperia 10</Title>
+    <Image>/Image\sony-xperia-10.jpg</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>286.99 €</TopPrix>
+    <Conclusion>En fin de compte, cet Xperia 10 n'a pour lui que son grand écran 21:9, et encore. Ce dernier ne se révèlera utile que si vous consommez beaucoup de vidéos sur mobile. Auquel cas, passez votre chemin et préférez un Pocophone F1 ou un Huawei Mate 20 Lite bien plus performants à un prix équivalent. Espérons que le Xperia 1 réussisse, lui, à nous bluffer. </Conclusion>
+    <PointFort1>L'écran 21:9 parfait pour les vidéos.</PointFort1>
+    <PointFort2>La légèreté de l'appareil.</PointFort2>
+    <PointFort3>La réactivité du lecteur d'empreintes digitales. </PointFort3>
+    <PointFaible1>Une préhension vraiment pas géniale.</PointFaible1>
+    <PointFaible2>Le placement des boutons.</PointFaible2>
+    <PointFaible3>La qualité des photos. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/sony-xperia-10-p51151/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Sony Xperia XZ Premium</Title>
+    <Image>/Image\xperia-xz-premium.png</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>229€</TopPrix>
+    <Conclusion>Il est encore trop tôt dans le monde mobile numérique pour apprécier ou non un affichage HDR, mais on y vient petit à petit. Alors en attendant, on appréciera un écran 4K qui ne l'est pas du tout et qui est finalement moins précis que celui d'un mobile affichant une définition moindre. Un comble. À côté de cela, le Xperia XZ Premium est nanti d'un très bon appareil photo et d'une sérieuse construction. Certainement l'un des mobiles actuels les plus puissants du marché, il ne doit pas moins composer avec des anicroches qui font du coup un peu tache quand on se relance à l'assaut d'un secteur haut de gamme qui s'est sérieusement rempli de costauds prétendants ces derniers mois. </Conclusion>
+    <PointFort1>Bon rendu des couleurs sur l'écran LCD et belle luminosité maximale.</PointFort1>
+    <PointFort2>Construction haut de gamme.</PointFort2>
+    <PointFort3>Performances globales. </PointFort3>
+    <PointFaible1>Un écran 4K qui n'est pas du tout 4K ou UHD.</PointFaible1>
+    <PointFaible2>Autonomie perfectible en lecture vidéo.</PointFaible2>
+    <PointFaible3>Faible occupation de l'écran sur la façade. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/xperia-xz-premium-p37953/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Sony Xperia XA1 Ultra</Title>
+    <Image>/Image\sony-xperia-xa1-ultra.jpg</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>188.49€</TopPrix>
+    <Conclusion>Si le XA1 Ultra est un bon téléphone en soi, à moins d'être particulièrement attaché à la marque Sony ou à cette taille d'écran, il est difficile de se ruer sur ce modèle plutôt que sur ceux de la concurrence, qui pour le même prix parviennent à faire mieux. On pense par exemple au Moto Z Play qui a radicalement baissé de prix et offre une bien meilleure autonomie et des résultats en photos plus probants. </Conclusion>
+    <PointFort1>Design et finitions propres.</PointFort1>
+    <PointFort2>Photo en plein jour impeccable.</PointFort2>
+    <PointFort3>Volet multimédia réussi. </PointFort3>
+    <PointFaible1>Photo de nuit catastrophique</PointFaible1>
+    <PointFaible2>Une autonomie solide, mais qui aurait mérité d'être meilleure encore.</PointFaible2>
+    <PointFaible3>Beaucoup d'applications préinstallées. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/sony-xperia-xa1-ultra-p37955/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Sony Xperia L2</Title>
+    <Image>/Image\sony-l2.jpg</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>169€</TopPrix>
+    <Conclusion>Le Sony Xperia L2 n'a finalement guère plus d'avantages que le L1, ce qui explique difficilement les 30 € d'écart entre les deux modèles. Il s'améliore tout de même en autonomie et devient ainsi un smartphone correct. Cependant dans cette gamme de prix, à moins d'être un fan inconditionnel de Sony, nous vous recommandons plutôt un Huawei P8 Lite 2017 ou un Samsung Galaxy J5 (2017). </Conclusion>
+    <PointFort1>Bonnes finitions.</PointFort1>
+    <PointFort2>USB-C, double SIM et microSD.</PointFort2>
+    <PointFort3>Bonne sortie casque. </PointFort3>
+    <PointFaible1>Écran peu contrasté.</PointFaible1>
+    <PointFaible2>Bordures d'écran imposantes.</PointFaible2>
+    <PointFaible3>Qualité des photos.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/sony-xperia-l2-p42497/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Sony Xperia L3</Title>
+    <Image>/Image\sony-xperia-l3.jpg</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>159.99€</TopPrix>
+    <Conclusion>On ne va pas y aller par quatre chemins : ce Sony Xperia L3 est peu recommandable. Tout juste moyen dans la majorité des tâches, il n'a que l'autonomie pour lui. Il ne peut pas rivaliser face au Xiaomi Redmi Note 7. </Conclusion>
+    <PointFort1>Très bonne autonomie.</PointFort1>
+    <PointFort2 />
+    <PointFort3 />
+    <PointFaible1>Finitions cheap.</PointFaible1>
+    <PointFaible2>Faibles performances.</PointFaible2>
+    <PointFaible3>Rendu photo étrange.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/sony-xperia-l3-p50251/test.html</Article1>
+    <Article2 />
+  </Telephone>
+</ArrayOfTelephone>

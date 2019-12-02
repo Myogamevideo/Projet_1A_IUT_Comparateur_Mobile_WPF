@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<ArrayOfTelephone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Telephone>
+    <Title>HTCU11</Title>
+    <Image>/Image\htc-u-11.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>625.57 €</TopPrix>
+    <Conclusion>Le HTC U11 est sans nul doute l’un des meilleurs smartphones de HTC. D'un point de vue technique, on est très agréablement surpris par sa performance en photo et par l'attention portée à l’écran. Le U11 est le digne successeur du One M8. Malheureusement, HTC n’a pas pris le virage des écrans bord à bord et traîne donc un design certes séduisant, mais qui semble un peu daté. Cela ne suffit pas tout à fait à lui enlever une étoile, mais pour le consommateur peu renseigné, de prime abord ce U11 ne tient pas la comparaison face à un Galaxy S8 ou un LG G6. Et ce n’est probablement pas une fonctionnalité Edge Sense anecdotique qui fera la différence. Bref, HTC a accouché d’une vraie réussite technique, mais pas sûr que cela suffise à sortir le constructeur de son marasme. </Conclusion>
+    <PointFort1>Qualité photo éblouissante.</PointFort1>
+    <PointFort2>Une autonomie solide.</PointFort2>
+    <PointFort3>Un écran proprement calibré (mais pas Oled...). </PointFort3>
+    <PointFaible1>Ratio taille d’écran/encombrement pas digne d’un haut de gamme 2017.</PointFaible1>
+    <PointFaible2>Coque salissante.</PointFaible2>
+    <PointFaible3>Des boutons de navigation trop petits. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/htc-u11-p39033/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>HTC U11+</Title>
+    <Image>/Image\htc-u11+.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>437.99 €</TopPrix>
+    <Conclusion>HTC n'a pas pris trop de risques avec l'U11+. En reprenant les solides fondations de l'U11, le constructeur ne pouvait de toute façon guère se tromper. Le smartphone retrouve ce qui a su faire le succès de son prédécesseur, tout en y apportant quelques améliorations techniques. Il peut donc enfin lutter à armes égales avec la concurrence. Malheureusement, on regrette aussi qu'en six mois, HTC ne se soit toujours pas décidé à adopter l'Oled. Ce point et le décrochage de l'U11+ en autonomie lui font malheureusement perdre sa cinquième étoile. Malgré toutes ses qualités, le HTC U11+ peine à convaincre pleinement face à un OnePlus 5T ou un Galaxy S8. </Conclusion>
+    <PointFort1>Construction et finitions impeccables.</PointFort1>
+    <PointFort2>Qualité photo toujours bien supérieure à celle de la concurrence.</PointFort2>
+    <PointFort3>Format 18:9 et écran (presque) bord à bord. </PointFort3>
+    <PointFaible1>Écran IPS.</PointFaible1>
+    <PointFaible2>Autonomie en deçà de ce que l'on était en droit d'attendre.</PointFaible2>
+    <PointFaible3>Pas de port jack. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/htc-u11-p41761/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>HTC U12 Life</Title>
+    <Image>/Image\htc-u12-life.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>208 €</TopPrix>
+    <Conclusion>Au bout du compte, ce HTC U12 Life est plutôt une bonne surprise. Derrière sa robe élégante se cache un mobile qui fait assez bien les choses. Certes, techniquement, il n'est pas au niveau de la concurrence, mais son autonomie solide en fait un compagnon efficace. En revanche le Pocophone F1, s'il est certes moins chic, est techniquement plus réussi sur la plupart des critères de choix. </Conclusion>
+    <PointFort1>Constructions et finitions élégantes.</PointFort1>
+    <PointFort2>Autonomie de compétition.</PointFort2>
+    <PointFort3>Qualité des photos en plein jour. </PointFort3>
+    <PointFaible1>Qualité des photos de nuit à revoir.</PointFaible1>
+    <PointFaible2>Bordures d'écran trop imposantes.</PointFaible2>
+    <PointFaible3>Sortie audio qui aurait mérité d'être plus soignée. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/htc-u12-life-p45745/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>HTC U12+</Title>
+    <Image>/Image\htc-u12-plus.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>424 €</TopPrix>
+    <Conclusion>HTC a affirmé que son U12+ était un smartphone de transition. Dommage, car avec un peu plus d'attention sur des points cruciaux comme l'autonomie, il aurait pu prétendre à mieux. Dans l'ensemble, l'U12+ reste un smartphone correct, mais la concurrence est rude et HTC ne peut plus compter sur son image de marque. </Conclusion>
+    <PointFort1>Finitions irréprochables.</PointFort1>
+    <PointFort2>Étanchéité IP68.</PointFort2>
+    <PointFort3>Écran bien calibré. </PointFort3>
+    <PointFaible1>Pas de prise jack 3,5 mm ni d'adaptateur audio fourni.</PointFaible1>
+    <PointFaible2>Autonomie décevante.</PointFaible2>
+    <PointFaible3>Photos en retrait par rapport à celles de l'U11+.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/htc-u12-p44449/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>HTC U11 Life</Title>
+    <Image>/Image\htc-u11-life.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>229 €</TopPrix>
+    <Conclusion>Le HTC U11 Life est assez logiquement inférieur à ses grands frères U11 et U11+. Dommage qu'il pèche autant en photo et en autonomie, car il aurait pu constituer un excellent choix. Le Samsung Galaxy A5 (2017) de Samsung reste plus équilibré. L'U11 Life garantit toutefois des mises à jour d'Android pendant 2 ans, ce qui n'est pas négligeable. </Conclusion>
+    <PointFort1>Étanchéité (IP67).</PointFort1>
+    <PointFort2>Finitions sérieuses.</PointFort2>
+    <PointFort3>Performances correctes. </PointFort3>
+    <PointFaible1>Pas de prise jack 3,5 mm ni d'adaptateur USB-C fourni.</PointFaible1>
+    <PointFaible2>Larges bandes noires de part et d'autre de l'écran.</PointFaible2>
+    <PointFaible3>Photos décevantes en basse lumière. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/htc-u11-life-p41751/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>HTC Desire 12s</Title>
+    <Image>/Image\htc-desire-12s.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>199 €</TopPrix>
+    <Conclusion>On se demande vraiment pourquoi HTC ne s'est pas contenté de ses Desire 12 et 12+. Le modèle 12s n'est pas vraiment recommandable, surtout face a une concurrence vraiment supérieure, Redmi Note 7 en tête. </Conclusion>
+    <PointFort1>Coque arrière "originale".</PointFort1>
+    <PointFort2>Bon écran après quelques réglages.</PointFort2>
+    <PointFort3>Autonomie.</PointFort3>
+    <PointFaible1>Appareil photo.</PointFaible1>
+    <PointFaible2>Performances.</PointFaible2>
+    <PointFaible3>Prise mini-jack 3,5 mm médiocre. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/htc-desire-12s-p51131/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>HTC U Ultra</Title>
+    <Image>/Image\htc-u-ultra.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>188 €</TopPrix>
+    <Conclusion>HTC arrive en 2017 avec un smartphone loin d'être dénué d'intérêt. Cependant, le U Ultra accumule beaucoup de petits défauts qui l'empêchent de réellement venir jouer les trouble-fête dans la hiérarchie du marché des smartphones actuels, sans parler de la génération attendue cette année qui devrait reléguer ce terminal à un rôle de second plan. </Conclusion>
+    <PointFort1>Finitions sans reproche.</PointFort1>
+    <PointFort2>Écran fidèle et bien défini.</PointFort2>
+    <PointFort3>Interface fluide et agréable. </PointFort3>
+    <PointFaible1>Tendance à chauffer.</PointFaible1>
+    <PointFaible2>Sensible aux traces de doigts.</PointFaible2>
+    <PointFaible3>Qualité audio décevante. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/htc-u-ultra-p37219/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>HTC U Play</Title>
+    <Image>/Image\htc-u-play.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>136.99 €</TopPrix>
+    <Conclusion>Difficile de comprendre le positionnement de HTC avec le U Play. En se plaçant à 449 €, il tombe face au OnePlus 3T ou d'autres smartphones haut de gamme de 2016, contre lesquels il ne fait absolument pas le poids. Vu l'état actuel du marché, et sans une forte baisse de son prix, il nous paraît presque impensable de craquer pour le U Play. </Conclusion>
+    <PointFort1>Finitions.</PointFort1>
+    <PointFort2>Lecteur d'empreintes digitales performant.</PointFort2>
+    <PointFort3>Fluidité générale. </PointFort3>
+    <PointFaible1>Écran peu fidèle.</PointFaible1>
+    <PointFaible2>Dos très salissant.</PointFaible2>
+    <PointFaible3>Pas de prise jack ni d'adaptateur fourni. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/htc-u-play-p37221/test.html</Article1>
+    <Article2 />
+  </Telephone>
+</ArrayOfTelephone>

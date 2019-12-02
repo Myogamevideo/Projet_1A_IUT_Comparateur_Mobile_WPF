@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<ArrayOfTelephone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Telephone>
+    <Title>Wiko View 2 Pro</Title>
+    <Image>/Image\wiko-view-2-pro.jpg</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>257.26 €</TopPrix>
+    <Conclusion>Au bout du compte, ce Wiko View 2 Pro passe à deux doigts d'une quatrième étoile. Si seulement le constructeur avait opté pour une puce mobile un peu plus costaude et avait soigné la photo de nuit, ce smartphone aurait pu ressortir un peu de la masse. Mais voilà, même avec toutes ses qualités, on aura du mal à recommander ce mobile plutôt que le Xiaomi Redmi Note 5, 100 € moins cher et meilleur dans à peu près toutes les catégories. </Conclusion>
+    <PointFort1>Colorimétrie de l'écran correcte.</PointFort1>
+    <PointFort2>Qualité des photos en plein jour.</PointFort2>
+    <PointFort3>Bonne autonomie. </PointFort3>
+    <PointFaible1>Photos de nuit de mauvaise qualité.</PointFaible1>
+    <PointFaible2>Écran qui tire beaucoup trop vers le bleu.</PointFaible2>
+    <PointFaible3>Sortie casque médiocre. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/wiko-view-2-pro-p43335/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Wiko View Prime</Title>
+    <Image>/Image\wiko-view-prime.png</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>247.58 €</TopPrix>
+    <Conclusion>Malgré l'effort qu'a fait Wiko pour tenter de suivre la tendance du 18:9, il est difficile de vraiment conseiller ce Prime. À moins que vous ne soyez prêt à passer outre l'autonomie trop faible de ce smartphone et ses difficultés en photo, uniquement parce qu'il adopte le format en vogue en cette fin d'année, nous vous conseillons largement plus l'excellent Huawei P8 Lite 2017 qui, pour moins cher, vous offrira de meilleurs résultats partout. </Conclusion>
+    <PointFort1>Construction sans grand reproche.</PointFort1>
+    <PointFort2>Format 18:9.</PointFort2>
+    <PointFort3>Photo en plein jour plutôt correcte. </PointFort3>
+    <PointFaible1>Pas de batterie amovible.</PointFaible1>
+    <PointFaible2>Des applications installées sans le consentement de l'utilisateur.</PointFaible2>
+    <PointFaible3>Autonomie moyenne. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/wiko-view-prime-p40861/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Wiko WIM</Title>
+    <Image>/Image\wiko-wim.jpg</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>139.35 €</TopPrix>
+    <Conclusion>La tentative de montée en gamme de Wiko aurait pu être couronnée de succès si seulement le fabricant avait su dompter son double module photo. En l'état, il se heurte à une concurrence venant de smartphones haut de gamme de 2016, toujours intéressants techniquement et parfois au même prix que le WIM. Dommage pour Wiko, la base était intéressante. </Conclusion>
+    <PointFort1>Finitions.</PointFort1>
+    <PointFort2>Écran Amoled correct.</PointFort2>
+    <PointFort3>Autonomie. </PointFort3>
+    <PointFaible1>Partie photo loin d'être au point.</PointFaible1>
+    <PointFaible2>Temps de traitement photo parfois très long.</PointFaible2>
+    <PointFaible3>Partie audio décevante.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/wiko-wim-p37991/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Wiko View 2 Go</Title>
+    <Image>/Image\wiko-view-2-go.jpg</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>119.90 €</TopPrix>
+    <Conclusion>Le Wiko View 2 Go ne promet pas la lune pour 159 €. En revanche, il promet une autonomie solide et un bon écran, et il les offre réellement. Pour moins de 160 €, il reste un bon choix si le lecteur d'empreintes digitales n'est pas indispensable pour vous. </Conclusion>
+    <PointFort1>Bonnes finitions.</PointFort1>
+    <PointFort2>Écran bien calibré.</PointFort2>
+    <PointFort3>Très bonne autonomie</PointFort3>
+    <PointFaible1>Performances un peu légères pour le jeu.</PointFaible1>
+    <PointFaible2>Pas de lecteur d'empreintes digitales.</PointFaible2>
+    <PointFaible3>La photo pourrait être meilleure.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/wiko-view-2-go-p45885/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Wiko U Pulse</Title>
+    <Image>/Image\wiko-upulse.jpg</Image>
+    <Note>★★☆☆☆</Note>
+    <TopPrix>169.30 €</TopPrix>
+    <Conclusion>Au bout du compte, le Wiko U Pulse, comme beaucoup d'autres smartphones de cette catégorie, s'en sort sans panache mais sans honte. Ce n'est pas le compagnon multimédia promis, mais il assure des performances correctes dans à peu près tous les domaines. Toutefois les performances photo et l'autonomie ne sont pas au niveau de la concurrence, notamment du Huawei P8 Lite 2017, pas beaucoup plus cher. </Conclusion>
+    <PointFort1>Bien construit.</PointFort1>
+    <PointFort2>Sortie casque de qualité.</PointFort2>
+    <PointFort3>Bonne lisibilité de l'écran.</PointFort3>
+    <PointFaible1>Colorimétrie de l'écran à revoir.</PointFaible1>
+    <PointFaible2>Qualité photo insuffisante, surtout en basse lumière.</PointFaible2>
+    <PointFaible3>Autonomie trop moyenne. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/wiko-u-pulse-p38025/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Wiko View 2</Title>
+    <Image>/Image\wiko-view-2.jpg</Image>
+    <Note>★★☆☆☆</Note>
+    <TopPrix>142.50 €</TopPrix>
+    <Conclusion>Malgré sa dalle au ratio 19:9 plutôt intéressante, surtout dans cette gamme de prix, le Wiko View 2 a du mal à tirer son épingle du jeu dans l'univers impitoyable des smartphones d’entrée de gamme — surtout en ayant comme concurrent direct le Xiaomi Redmi 5 Plus. </Conclusion>
+    <PointFort1>Écran 19:9.</PointFort1>
+    <PointFort2>Usage agréable.</PointFort2>
+    <PointFort3>Android 8.0. </PointFort3>
+    <PointFaible1>Écran mal calibré.</PointFaible1>
+    <PointFaible2>Photos décevantes en basse</PointFaible2>
+    <PointFaible3>luminosité. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/wiko-view-2-p43333/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Wiko View</Title>
+    <Image>/Image\wiko-view.png</Image>
+    <Note>★★☆☆☆</Note>
+    <TopPrix>99.99 €</TopPrix>
+    <Conclusion>Le Wiko View a le mérite d'apporter un vent de fraîcheur en matière de design pour un smartphone à moins de 200 €. Mais outre son écran 18 :9, le téléphone n’offre pas aujourd’hui une expérience tout à fait satisfaisante. La photo est à la traine, le mobile ne colle pas aux standards ergonomiques actuels (pas d’USB-C) et la fiche technique aurait mérité d’être plus solide. </Conclusion>
+    <PointFort1>Écran occupant une belle surface sur le smartphone.</PointFort1>
+    <PointFort2>Finitions sérieuses.</PointFort2>
+    <PointFort3>Double SIM et microSD. </PointFort3>
+    <PointFaible1>Écran LCD peu contrasté.</PointFaible1>
+    <PointFaible2>Partie photo très décevante.</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/wiko-view-p40859/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Wiko Tommy</Title>
+    <Image>/Image\wiko-tommy.jpg</Image>
+    <Note>★★☆☆☆</Note>
+    <TopPrix>88.44 €</TopPrix>
+    <Conclusion>Avec son Tommy, Wiko nous prouve encore une fois que les smartphones à moins de 120 € peinent à convaincre. Même sans en attendre beaucoup, les points faibles sont trop nombreux pour que l'investissement soit rentable. Finalement, pour quelques euros de plus, mieux vaut se tourner vers un Lenovo Moto G4 Play, qui fait moins d'impasses. </Conclusion>
+    <PointFort1>Finitions plutôt bonnes.</PointFort1>
+    <PointFort2>Batterie amovible.</PointFort2>
+    <PointFort3 />
+    <PointFaible1>Nombreux ralentissements de l'interface.</PointFaible1>
+    <PointFaible2>Seulement 8 Go de mémoire interne.</PointFaible2>
+    <PointFaible3>Qualité des photos médiocre. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/wiko-tommy-p31779/test.html</Article1>
+    <Article2 />
+  </Telephone>
+</ArrayOfTelephone>

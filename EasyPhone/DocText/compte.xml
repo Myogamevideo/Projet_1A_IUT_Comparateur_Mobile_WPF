@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfCompte xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Compte>
+    <ID>mael</ID>
+    <MDP>1234</MDP>
+    <nom>chapeira</nom>
+    <prenom>marine</prenom>
+    <email>chapeira.marine@gmail.com</email>
+    <titre>Salut Redactrice !</titre>
+    <image>/Image\user-307993__340.png</image>
+  </Compte>
+  <Compte>
+    <ID>alex</ID>
+    <MDP>2000</MDP>
+    <nom>alexandre</nom>
+    <prenom>bougrat</prenom>
+    <email>alexandre.bougrat@gmail.com</email>
+    <titre>Salut Admin !</titre>
+    <image>/Image\profile-2092113_1280.png</image>
+  </Compte>
+</ArrayOfCompte>

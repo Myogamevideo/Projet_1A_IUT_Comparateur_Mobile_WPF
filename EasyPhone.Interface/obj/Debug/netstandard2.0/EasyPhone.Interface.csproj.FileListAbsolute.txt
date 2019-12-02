@@ -1,0 +1,14 @@
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\bin\Debug\netstandard2.0\EasyPhone.Interface.deps.json
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\bin\Debug\netstandard2.0\EasyPhone.Interface.dll
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\bin\Debug\netstandard2.0\EasyPhone.Interface.pdb
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\bin\Debug\netstandard2.0\EasyPhone.Class.dll
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\bin\Debug\netstandard2.0\EasyPhone.Persistance.dll
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\bin\Debug\netstandard2.0\EasyPhone.Class.pdb
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\bin\Debug\netstandard2.0\EasyPhone.Persistance.pdb
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\obj\Debug\netstandard2.0\EasyPhone.Interface.csprojAssemblyReference.cache
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\obj\Debug\netstandard2.0\EasyPhone.Interface.csproj.CoreCompileInputs.cache
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\obj\Debug\netstandard2.0\EasyPhone.Interface.AssemblyInfoInputs.cache
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\obj\Debug\netstandard2.0\EasyPhone.Interface.AssemblyInfo.cs
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\obj\Debug\netstandard2.0\EasyPhone.Interface.csproj.CopyComplete
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\obj\Debug\netstandard2.0\EasyPhone.Interface.dll
+C:\Users\PCAlexandrePORT\Documents\EasyPhone\EasyPhone.Interface\obj\Debug\netstandard2.0\EasyPhone.Interface.pdb

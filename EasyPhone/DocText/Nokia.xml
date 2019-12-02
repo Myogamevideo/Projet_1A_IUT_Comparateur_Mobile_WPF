@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<ArrayOfTelephone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Telephone>
+    <Title>Nokia 8.1</Title>
+    <Image>/Image\8-1.jpg</Image>
+    <Note>★★★★☆		</Note>
+    <TopPrix>303.99 €</TopPrix>
+    <Conclusion>Avec son Nokia 8.1, HMD propose un smartphone frustrant. D'un côté, sa finition exemplaire, son écran IPS bien calibré, la présence d'Android One et son autonomie font envie. De l'autre, il souffre de légers ralentissements et ses photos, que ce soit au recto ou au verso, sont décevantes. Un smartphone à choisir en connaissance de cause donc... </Conclusion>
+    <PointFort1>Finition irréprochable.</PointFort1>
+    <PointFort2>Bonne autonomie.</PointFort2>
+    <PointFort3>Dalle IPS bien calibrée. </PointFort3>
+    <PointFaible1>Photos en basse luminosité moyennes.</PointFaible1>
+    <PointFaible2>Module frontal décevant.</PointFaible2>
+    <PointFaible3>Haut-parleur qui sature. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/nokia-nokia-8-1-p49939/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Nokia 7 Plus		</Title>
+    <Image>/Image\nokia-7-plus.jpg</Image>
+    <Note>★★★★☆		</Note>
+    <TopPrix>255.96 €</TopPrix>
+    <Conclusion>Sans exceller véritablement nulle part, le Nokia 7 Plus peut tout de même se targuer d'être bon partout. Les amoureux d'Android stock seront comblés par un smartphone équilibré dans sa proposition. Un rapport qualité/prix intéressant.</Conclusion>
+    <PointFort1>Finitions exemplaires.</PointFort1>
+    <PointFort2>Écran IPS plutôt réussi.</PointFort2>
+    <PointFort3>Bonnes performances. </PointFort3>
+    <PointFaible1>Pas d'étanchéité.</PointFaible1>
+    <PointFaible2>"Zoom 2x" pas toujours convaincant.</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/nokia-7-plus-p43307/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Nokia 9 PureView	</Title>
+    <Image>/Image\nokia-9-pureview.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>694.90 €</TopPrix>
+    <Conclusion>Assurément élégant et bien construit, le Nokia 9 PureView souffre cependant de petits défauts çà et là qui, cumulés, gâtent l’expérience. L’autonomie est trop faiblarde face à la concurrence, l’expérience audio est bâclée, et la qualité photo qui était censée être le point fort de l’appareil ne parvient pas au niveau d’un Galaxy S10 ou d’un Pixel 3. Dommage, ces quelques concessions font passer le Nokia 9 PureView à un cheveu de sa quatrième étoile. </Conclusion>
+    <PointFort1>Écran de qualité et bien calibré.</PointFort1>
+    <PointFort2>Finitions au top.</PointFort2>
+    <PointFort3>Bonne qualité photo. </PointFort3>
+    <PointFaible1>Autonomie trop faible.</PointFaible1>
+    <PointFaible2>Adaptateur mini-jack médiocre.</PointFaible2>
+    <PointFaible3>Un traitement photo trop agressif qui le range derrière le Pixel 3 ou le Galaxy S10. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/nokia-9-pureview-p50241/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Nokia 8 Sirocco		</Title>
+    <Image>/Image\nokia-8-sirocco.png</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>370 €</TopPrix>
+    <Conclusion>S'il se distingue d'abord par son design, le Nokia 8 Sirocco assure l'essentiel. Loin d'être le meilleur sur sa tranche de prix, il propose tout de même une expérience agréable. Mais des lacunes au niveau de la prise en main ou en audio le pénalisent.</Conclusion>
+    <PointFort1>L'écran Oled.</PointFort1>
+    <PointFort2>De bonnes performances.</PointFort2>
+    <PointFort3>Des photos de jour de qualité.</PointFort3>
+    <PointFaible1>Une prise en main loin d'être agréable.</PointFaible1>
+    <PointFaible2>Des photos en basse luminosité gâchées par le bruit.</PointFaible2>
+    <PointFaible3>Une diaphonie atroce.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/nokia-8-sirocco-p43309/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Nokia 7.1		</Title>
+    <Image>/Image\nokia-7-1.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>196 €</TopPrix>
+    <Conclusion>Le Nokia 7.1 possède certes des atouts, mais il n'excelle pas autant que nous l'espérions sur certains points clés. Il était notamment attendu à un autre niveau en photo et en autonomie. Il se fait distancer par d'autres smartphones vendus au même tarif et plus particulièrement par le Honor Play. </Conclusion>
+    <PointFort1>Finitions.</PointFort1>
+    <PointFort2>Écran correct.</PointFort2>
+    <PointFort3>Autonomie satisfaisante. </PointFort3>
+    <PointFaible1>Des ralentissements de temps à autre.</PointFaible1>
+    <PointFaible2>La partie photo déçoit un peu.</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/nokia-7-1-p49093/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Nokia 6.1		</Title>
+    <Image>/Image\nokia-6.jpg</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>165 €</TopPrix>
+    <Conclusion>En améliorant très légèrement la recette du Nokia 6 sorti l'année dernière, Nokia livre avec le 6.1 un smartphone très intéressant. Malgré un léger décrochage en photo, il s'en sort avec les honneurs et présente un bon rapport qualité/prix. Avec en plus Android One à bord, ce Nokia 6 (2018) ressemble décidément au feu Nexus 5 de Google. </Conclusion>
+    <PointFort1>Construction irréprochable et design élégant.</PointFort1>
+    <PointFort2>Écran de bonne qualité (excepté en colorimétrie).</PointFort2>
+    <PointFort3>Excellents résultats en audio. </PointFort3>
+    <PointFaible1>Écran beaucoup trop bleu.</PointFaible1>
+    <PointFaible2>Photos de nuit médiocres.</PointFaible2>
+    <PointFaible3>Format 16:9 et bordures d'écran imposantes. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/nokia-6-1-p42459/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Nokia 2.1		</Title>
+    <Image>/Image\2-1.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>89.92 €</TopPrix>
+    <Conclusion>Faire un smartphone aux environs de 100 € est décidément un défi complexe. Obligés de faire des concessions techniques majeures, les constructeurs transforment ces mobiles en machines monomaniaques. C’est le cas de ce Nokia 2.1 qui, grâce à son autonomie de compétition et ses haut-parleurs stéréo, est une bonne machine à consommer du multimédia. Pour le reste, c’est souvent décevant. La partie photo est médiocre et l’expérience souvent pénible en raison de ralentissements fréquents au sein de l’OS. C’est ce qu’on appelle « un petit 3 étoiles ». </Conclusion>
+    <PointFort1>Excellente autonomie.</PointFort1>
+    <PointFort2>Construction correcte.</PointFort2>
+    <PointFort3>Partie audio acceptable (pour le prix).</PointFort3>
+    <PointFaible1>Qualité des photos médiocre.</PointFaible1>
+    <PointFaible2>Ralentissements et gels de certaines apps fréquents.</PointFaible2>
+    <PointFaible3>Android Go a des progrès à faire. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/2-1-p44573/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Nokia 3.1		</Title>
+    <Image>/Image\nokia-3-1.png</Image>
+    <Note>★★☆☆☆	</Note>
+    <TopPrix>112 €</TopPrix>
+    <Conclusion>Malgré une finition exemplaire et une bonne autonomie, le Nokia 3.1 a du mal à se positionner comme un téléphone recommandable. Ses performances photo, son écran et par dessus tout ses ralentissements constants en font un terminal beaucoup trop limité. D'autant plus à une époque où Xiaomi, très agressif sur le rapport qualité/prix, propose dans cette tranche de prix le Redmi S2, un smartphone beaucoup plus complet. </Conclusion>
+    <PointFort1>Une finition impeccable.</PointFort1>
+    <PointFort2>Un écran très lumineux.</PointFort2>
+    <PointFort3>Android One. </PointFort3>
+    <PointFaible1>Pas de capteur d’empreintes.</PointFaible1>
+    <PointFaible2>Un écran calibré trop froid (tire sur le bleu).</PointFaible2>
+    <PointFaible3>Des ralentissements trop fréquents. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/nokia-3-1-p44575/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Nokia 1			</Title>
+    <Image>/Image\nokia-1.jpg</Image>
+    <Note>★★☆☆☆	</Note>
+    <TopPrix>64 €</TopPrix>
+    <Conclusion>Le Nokia 1 propose des performances bien trop médiocres pour être réellement intéressant. Ses grosses lacunes en performances — que même Android Go n'arrive pas à compenser — empêchent de profiter pleinement du terminal. </Conclusion>
+    <PointFort1>La batterie remplaçable.</PointFort1>
+    <PointFort2>Une sortie casque de qualité.</PointFort2>
+    <PointFort3>Un petit format.</PointFort3>
+    <PointFaible1>Un écran mal calibré.</PointFaible1>
+    <PointFaible2>Des photos de mauvaise qualité.</PointFaible2>
+    <PointFaible3>Une autonomie moyenne.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/nokia-1-p43305/test.html</Article1>
+    <Article2 />
+  </Telephone>
+</ArrayOfTelephone>

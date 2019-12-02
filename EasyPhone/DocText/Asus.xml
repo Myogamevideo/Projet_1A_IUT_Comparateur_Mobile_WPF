@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<ArrayOfTelephone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Telephone>
+    <Title>Asus ROG Phone</Title>
+    <Image>/Image\asus-rog-phone.jpg</Image>
+    <Note>★★★★☆		</Note>
+    <TopPrix>788 €</TopPrix>
+    <Conclusion>Dans l'ensemble, le ROG Phone d'Asus se positionne comme un très bon smartphone haut de gamme. Seule la photo le laisse un peu en retrait des meilleurs smartphones du moment. Toutefois, le ROG Phone ne vient pas vraiment jouer dans la cour des smartphones classiques. Son truc, c'est le jeu vidéo et Asus a fait de son mieux pour que son terminal s'en sorte admirablement dans ce domaine. Si l'on prend en compte les accessoires optionnels, il s'agit de l'offre la plus complète du marché pour le moment. </Conclusion>
+    <PointFort1>Bonnes finitions.</PointFort1>
+    <PointFort2>Écran Amoled bien calibré.</PointFort2>
+    <PointFort3>Interface bien pensée pour le jeu. </PointFort3>
+    <PointFaible1>Look clivant.</PointFaible1>
+    <PointFaible2>Pas de port microSD.</PointFaible2>
+    <PointFaible3>Lecteur d'empreintes un peu mal placé. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/asus-rog-phone-p44645/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Asus Zenfone AR			</Title>
+    <Image>/Image\asus-zenfone-ar.png</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>899.99 €</TopPrix>
+    <Conclusion>À l'heure du bilan, on ne peut qu'être à la fois emballé et frustré par ce Zenfone AR. Au-delà de la réalité virtuelle, déjà vue et revue ailleurs, la présence du système Tango est intéressante, mais encore balbutiante. Tout ne fonctionne pas parfaitement et l'on sent que la demande en ressources est énorme. Le Zenfone AR n'est clairement pas un smartphone pour tout le monde, surtout vu l'investissement demandé. Attendons un Zenfone AR 2 pour peut-être enfin apprécier ces technologies. </Conclusion>
+    <PointFort1>Finitions.</PointFort1>
+    <PointFort2>Écran contrasté et fidèle.</PointFort2>
+    <PointFort3>Bonnes performances générales. </PointFort3>
+    <PointFaible1>Chauffe rapidement.</PointFaible1>
+    <PointFaible2>Écran peu lumineux.</PointFaible2>
+    <PointFaible3>Interface chargée. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/asus-zenfone-ar-p36861/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Asus Zenfone 5Z			</Title>
+    <Image>/Image\asus-zenfone-5z.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>330 €</TopPrix>
+    <Conclusion>On ne peut s'empêcher de penser qu'Asus a juste construit ce 5Z pour proposer un smartphone embarquant un maximum de puissance et que toute l'attention s'est concentrée sur le Zenfone 5 « standard ». Que ce soit du côté de la photo, de l'audio ou de l'autonomie, ce 5Z fait des concessions trop importantes pour prétendre rivaliser avec des modèles du haut de gamme comme le Honor View 10 ou le Xiaomi Mi Mix 2S.</Conclusion>
+    <PointFort1>Construction impeccable.</PointFort1>
+    <PointFort2>Écran IPS de qualité (mais toujours pas d'Oled).</PointFort2>
+    <PointFort3>Performances au top. </PointFort3>
+    <PointFaible1>Pas de certification d’étanchéité.</PointFaible1>
+    <PointFaible2>Traitement photo trop agressif qui fait perdre en qualité, de jour ou de nuit.</PointFaible2>
+    <PointFaible3>Autonomie pas digne d'un haut de gamme.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/asus-zenfone-5z-p43387/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Asus Zenfone Max Pro		</Title>
+    <Image>/Image\asus-zenfone-max-pro.jpg</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>239.99 €</TopPrix>
+    <Conclusion>S'il ne souffrait pas d'aussi mauvaises performances en photo, le Zenfone Max Pro d'Asus aurait constitué un bon choix pour un smartphone équilibré. Si ce critère ne vous importe pas, vous pouvez foncer. Si la photo à une importance pour vous, orientez-vous plutôt vers le Redmi Note 5 de Xiaomi. </Conclusion>
+    <PointFort1>Finitions.</PointFort1>
+    <PointFort2>Double-SIM et microSD.</PointFort2>
+    <PointFort3>Écran bien calibré. </PointFort3>
+    <PointFaible1>Pas d'USB-C.</PointFaible1>
+    <PointFaible2>Partie audio moyenne.</PointFaible2>
+    <PointFaible3>Qualité médiocre des photos.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/asus-zenfone-max-pro-m1-p45487/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Asus Zenfone 5 lite		</Title>
+    <Image>/Image\asus-zenfone-5-lite.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>218.99 €</TopPrix>
+    <Conclusion>Sur le papier, le Zenfone 5 Lite avait tout pour être le bon rapport qualité/prix de la famille Asus. Malheureusement, il ne parvient pas à assurer le minimum en photo et se montre globalement peu séduisant. Vendu 300 ou 400 € en fonction des versions, on lui préfère un Xiaomi Redmi Note 5, beaucoup plus équilibré et bien moins cher. </Conclusion>
+    <PointFort1>Bonnes finitions.</PointFort1>
+    <PointFort2>Double SIM et microSD.</PointFort2>
+    <PointFort3>Écran correctement calibré. </PointFort3>
+    <PointFaible1>Appareil photo dorsal très décevant.</PointFaible1>
+    <PointFaible2>Autonomie limitée.</PointFaible2>
+    <PointFaible3>Sortie casque peu puissante.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/asus-zenfone-5-lite-p43383/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Asus Zenfone 4 Selfie Pro	</Title>
+    <Image>/Image\asus-zenfone-4-selfie-pro.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>196.36 €</TopPrix>
+    <Conclusion>Agréable aussi bien à l’œil qu’en main, l’Asus Zenfone 4 Selfie Pro a cependant du mal à se faire une place sur le marché du milieu de gamme. Pourtant, l’aspect général de ce smartphone n’est pas à déplorer, et en plus de son design et sa bonne ergonomie, il profite d’un bel écran Oled et de performances convenables. Néanmoins son autonomie est trop faible pour un mobile de 400 € en 2017 et la partie photo, pourtant mise en avant par la marque, n’est pas à la hauteur de ses promesses. En cette fin d’année, le Zenfone 4 Selfie Pro doit aussi faire face à des modèles haut de gamme qui ont vu leur prix drastiquement réduit, comme le LG G6 ou le HTC U11. </Conclusion>
+    <PointFort1>Constructions et finitions.</PointFort1>
+    <PointFort2>Très bon écran Oled.</PointFort2>
+    <PointFort3>Partie audio de qualité (moyennant quelques réglages).</PointFort3>
+    <PointFaible1>Port micro-USB plutôt que Type-C.</PointFaible1>
+    <PointFaible2>Taux d'occupation de l'écran.</PointFaible2>
+    <PointFaible3>Qualité photo décevante. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/asus-zenfone-4-selfie-pro-p40553/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Asus Zenfone 3 Max Plus		</Title>
+    <Image>/Image\zenfone-3-max-plus.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>162.99 €</TopPrix>
+    <Conclusion>Plus encore que le Zenfone 3 Max "standard", cette version Plus réussit vraiment son pari d'être une bête d'autonomie malgré des composants plus véloces qui laissaient craindre un peu plus de gourmandise. Des bémols un peu gênants comme la photo et l'écran persistent, mais pour qui cherche juste un mobile qui ne sera pas à bout de souffle dès le milieu de la journée, le Max est une option intéressante dans sa gamme de prix – même s’il ne rivalise pas avec le Galaxy A5 2016 qui est désormais au même tarif. </Conclusion>
+    <PointFort1>Autonomie aussi bonne que promise.</PointFort1>
+    <PointFort2>Finitions propres et sans reproches.</PointFort2>
+    <PointFort3>Interface qui offre de nombreuses possibilités de personnalisation. </PointFort3>
+    <PointFaible1>Résultats labos de l'écran en demi-teinte.</PointFaible1>
+    <PointFaible2>Interface parfois un peu brouillonne.</PointFaible2>
+    <PointFaible3>Photo en basse luminosité à revoir. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/zenfone-3-max-plus-p37669/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Asus Zenfone 4 ZE554KL		</Title>
+    <Image>/Image\asus-zenfone-4.png</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>156.58 €</TopPrix>
+    <Conclusion>Sans être une bête de course, ce Zenfone 4 se défend plutôt bien dans le monde des smartphones actuel. Excepté un petit problème d'optique, l'appareil photo s'en sort bien et les performances générales sont assez équilibrées. Malheureusement, une autonomie en berne et une ergonomie qui mériterait d'être retravaillée le pénalise. Sans compter qu'à 499 €, la concurrence est intraitable, à commencer par le OnePlus 5, mieux équipé et qui fait moins de concessions. </Conclusion>
+    <PointFort1>Performances photo très honnêtes.</PointFort1>
+    <PointFort2>Grand-angle perfectible, mais sympathique à avoir.</PointFort2>
+    <PointFort3>Écran de qualité. </PointFort3>
+    <PointFaible1>Autonomie à la traîne.</PointFaible1>
+    <PointFaible2>Ratio encombrement/taille de l’écran restreint.</PointFaible2>
+    <PointFaible3>Problème de haut-parleur. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/asus-zenfone-4-ze554kl-p40543/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Asus Zenfone 4 Max Plus		</Title>
+    <Image>/Image\asus-zenfone-4-max.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>127.43 €</TopPrix>
+    <Conclusion>Au final, le Zenfone 4 Max remplit sa mission en offrant une excellente autonomie. Cependant, au vu des promesses d'Asus sur ce point, on aurait pu rêver encore mieux, d'autant que sur le reste, le mobile ne brille pas particulièrement face à la concurrence. On lui préférera le Galaxy J5 2017, qui est aujourd'hui presque au même prix, profite d'une autonomie similaire et s'en sort mieux sur les autres aspects. </Conclusion>
+    <PointFort1>Finitions de qualité.</PointFort1>
+    <PointFort2>Colorimétrie de l'écran correcte (après ajustements).</PointFort2>
+    <PointFort3>Excellente autonomie, même si on pouvait espérer mieux.</PointFort3>
+    <PointFaible1>Capteur d’empreinte un peu capricieux.</PointFaible1>
+    <PointFaible2>Ratio écran/encombrement un peu faible.</PointFaible2>
+    <PointFaible3>Définition de l’écran trop basse. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/asus-zenfone-4-max-zc554kl-p40017/test.html</Article1>
+    <Article2 />
+  </Telephone>
+</ArrayOfTelephone>

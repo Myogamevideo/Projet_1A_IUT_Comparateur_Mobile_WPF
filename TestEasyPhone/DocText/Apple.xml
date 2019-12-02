@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<ArrayOfTelephone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Telephone>
+    <Title>iPhone XS Max	</Title>
+    <Image>/Image\apple-iphone-xs-max.jpg</Image>
+    <Note>★★★★★	</Note>
+    <TopPrix>919.99 €</TopPrix>
+    <Conclusion>On peut trouver l'iPhone Xs Max avare en nouveautés et excessivement cher, mais Apple est parvenu à reproduire la très bonne recette de l'iPhone X. Le Xs Max est au marché du smartphone ce que la cuisine gastronomique est à celui de la restauration. On a l'impression de payer très cher pour peu de choses, mais cela reste excellent. </Conclusion>
+    <PointFort1>Finitions exemplaires.</PointFort1>
+    <PointFort2>Écran au top.</PointFort2>
+    <PointFort3>Photos en plein jour. </PointFort3>
+    <PointFaible1>iOS ne semble pas toujours adapté à un écran si grand.</PointFaible1>
+    <PointFaible2>Photo de nuit qui progresse peu.</PointFaible2>
+    <PointFaible3>Pas de prise mini-jack ni d'adaptateur fourni.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/apple-iphone-xs-max-p45421/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>iPhone XS	</Title>
+    <Image>/Image\apple-iphone-xs.jpg</Image>
+    <Note>★★★★★	</Note>
+    <TopPrix>905.68 €</TopPrix>
+    <Conclusion>L'iPhone Xs peut sérieusement poser la question de l'intérêt d'un fabricant à renouveler un smartphone tous les ans. Les différences avec l'iPhone X sont relativement maigres. Cependant, on peut se dire qu'Apple n'a pas augmenté son tarif — ouf ! — et que l'iPhone Xs reste un excellent smartphone. </Conclusion>
+    <PointFort1>Finitions exemplaires.</PointFort1>
+    <PointFort2>Écran au top.</PointFort2>
+    <PointFort3>Photos en plein jour. </PointFort3>
+    <PointFaible1>Photo de nuit qui progresse peu.</PointFaible1>
+    <PointFaible2>Pas de prise mini-jack ni d'adaptateur fourni.</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/apple-iphone-xs-p45419/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>iPhone X	</Title>
+    <Image>/Image\apple-iphone-x.jpg</Image>
+    <Note>★★★★★	</Note>
+    <TopPrix>764.99 €</TopPrix>
+    <Conclusion>Cela faisait bien longtemps qu'Apple n'avait pas présenté un smartphone aussi intéressant que cet iPhone X. Il est aussi réussi que son cousin l'iPhone 8, mais rafraîchit avec réussite son design. Une réussite à mettre tout de même en perspective avec le marché du smartphone : elle permet à Apple de recoller à la concurrence sur certains aspects, plutôt que de prendre de l'avance. L'iPhone X est un excellent smartphone, certes, mais peut-être pas à la hauteur des 1160 € réclamés. Espérons qu'Apple redescendra sur terre l'an prochain sur ce point.</Conclusion>
+    <PointFort1>Très bonnes finitions.</PointFort1>
+    <PointFort2>Un écran enfin au top.</PointFort2>
+    <PointFort3>Face ID fonctionne bien. </PointFort3>
+    <PointFaible1>Pas de prise jack 3,5 mm.</PointFaible1>
+    <PointFaible2>Applications pas forcément optimisées pour le format d'écran.</PointFaible2>
+    <PointFaible3>Qualité photo au zoom toujours décevante.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/apple-iphone-x-p41065/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>iPhone XR	</Title>
+    <Image>/Image\apple-iphone-xr.jpg</Image>
+    <Note>★★★★★	</Note>
+    <TopPrix>688.88 €</TopPrix>
+    <Conclusion>Certes l'iPhone XR fait quelques concessions par rapport à son grand frère, l'iPhone XS. Elles ne lui sont cependant pas trop préjudiciables et l'iPhone XR reste un excellent smartphone sous iOS. Cela lui permet surtout de s'afficher à un prix bien inférieur à celui du XS. Oui, un iPhone à moins de 1000 €, ça peut tenir la route. </Conclusion>
+    <PointFort1>Finitions exemplaires.</PointFort1>
+    <PointFort2>Photos en plein jour.</PointFort2>
+    <PointFort3>Autonomie. </PointFort3>
+    <PointFaible1>Photo de nuit qui progresse peu.</PointFaible1>
+    <PointFaible2>Pas de prise mini-jack ni d'adaptateur fourni.</PointFaible2>
+    <PointFaible3>Design moins flatteur que celui du XS.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/apple-iphone-xr-p46021/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>iPhone 8	</Title>
+    <Image>/Image\apple-iphone-8.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>636.99 €</TopPrix>
+    <Conclusion>L'iPhone 8 est en quelque sorte ce bon élève qui énerve les professeurs en ne faisant que le strict nécessaire pour maintenir de bons résultats. Il est à la fois réussi et frustrant. On regrette de ne pas voir plus d'évolutions physiques sur ce terminal, mais il reste l'un des meilleurs smartphones de moins de 5 pouces du marché. Il renforce ses acquis, sans vraiment prendre la peine de se surpasser. </Conclusion>
+    <PointFort1>Finitions et étanchéité (IP67).</PointFort1>
+    <PointFort2>Écran lumineux et peu sujet aux reflets.</PointFort2>
+    <PointFort3>Très bonnes performances générales</PointFort3>
+    <PointFaible1>On aurait aimé voir un autre design.</PointFaible1>
+    <PointFaible2>Pas de port jack 3,5 mm.</PointFaible2>
+    <PointFaible3>Pas de chargeur rapide fourni. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/apple-iphone-8-p39091/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>iPhone 8 Plus	</Title>
+    <Image>/Image\apple-iphone-8-plus.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>635 €</TopPrix>
+    <Conclusion>Apple revisite très légèrement sa formule d'iPhone "grand format" avec ce 8 Plus. Toujours solide sur ses points forts, il reste un bon smartphone. Cependant, il détonne un peu face à la concurrence haut de gamme de 2017 et les progrès qu'il affiche ne suffisent pas à lui faire décrocher une cinquième étoile. On a le sentiment qu'Apple n'a pas voulu trop en faire pour laisser le champ libre à son iPhone X. </Conclusion>
+    <PointFort1>Écran lumineux, bien calibré et hermétique aux reflets.</PointFort1>
+    <PointFort2>Étanchéité (IP67).</PointFort2>
+    <PointFort3>Excellentes finitions. </PointFort3>
+    <PointFaible1>Écran peu contrasté.</PointFaible1>
+    <PointFaible2>Un design daté, loin des standards actuels.</PointFaible2>
+    <PointFaible3>Mode Portrait pas toujours satisfaisant. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/apple-iphone-8-plus-p41063/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>iPhone 7	</Title>
+    <Image>/Image\apple-iphone-7.png</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>276 €</TopPrix>
+    <Conclusion>La version Plus avait plutôt l'habitude de remporter la plus grande adhésion du jury depuis 2 ans, mais cette année, il semble vraiment que l'iPhone 7 "tout court" soit celui des iPhone qui regroupe le plus de qualités globales. Plus cohérent en photo — enfin un module à stabilisation optique ! —, en progrès net sur l'autonomie, dépositaire d'une puissance brute jamais vue sur smartphone et très bien construit, il est finalement l'"iPhone 6s parfait", mais sans forcément accuser de retard significatif d'un an sur la concurrence Android. Il incarne également — tout comme le 7 Plus — le premier pas vers un autre iPhone et une autre vision de la mobilité, avec son bouton haptique étonnant et sa prise mini-Jack restée à l'usine pour autant simplifier le design intérieur de la bête que transformer le marché de l'accessoire. Si le passage d'un 6s Plus à un 7 Plus est moins évident avec du recul, celui d'un iPhone 6/6s à l'iPhone 7, en revanche, est bien plus évident, au regard des apports de ce dernier. </Conclusion>
+    <PointFort1>Construction et finitions de grande qualité.</PointFort1>
+    <PointFort2>Rendu de l'écran en progrès / Très bon contraste (pour du LCD), excellente luminosité maximale, l'un des meilleurs rendu des couleurs jamais vu sur le marché.</PointFort2>
+    <PointFort3>Autonomie en net progrès, surtout sur des usages lourds. </PointFort3>
+    <PointFaible1>Design qui n'évolue quasiment pas / optimisation de l'occupation de surface par l'écran parmi les moins bonnes du secteur.</PointFaible1>
+    <PointFaible2>La version Noir de jais : un nid à embrouilles pour les traces de doigts et rayures.</PointFaible2>
+    <PointFaible3>La disparition de la prise mini-Jack fera grincer des dents. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/apple-iphone-7-p34231/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>iPhone 7 Plus	</Title>
+    <Image>/Image\apple-iphone-7-plus.png</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>529 €</TopPrix>
+    <Conclusion>D'extérieur, la lignée Plus des iPhone n'évolue que très peu, à savoir sur une protubérance plus prononcée au niveau de l'appareil photo principal, une étanchéité nouvelle et bien entendu la prise mini-Jack qui se fait la malle. Apple se repose sur ses lauriers et il faudra sans doute attendre l'année prochaine pour apercevoir un changement de poids de ce côté. Pour tout le reste, l'iPhone 7 Plus est un iPhone 6s Plus en bien plus musclé. Un appareil photo (principal) qui revient plus fort dans la bataille du haut de gamme, mais un "zoom optique" décevant sur sa qualité de rendu, pouvant toutefois être utile pour certains utilisateurs, une puissance brute indéniable mais encore orpheline de jeux et applications à faire tourner à vitesse grand V et une autonomie en hausse... Dans le monde iOS, ce 7 Plus possède par endroit les meilleurs arguments du monde. Dans la galaxie mobile au sens large, il permet surtout à Apple de se remettre à niveau sur la phablette.</Conclusion>
+    <PointFort1>Qualité de rendu de la dalle LCD / Luminosité maximale de l'écran.</PointFort1>
+    <PointFort2>Autonomie solide (et en hausse).</PointFort2>
+    <PointFort3>Le bouton non mécanique, désormais à retour haptique, s'avère être une belle surprise. </PointFort3>
+    <PointFaible1>Le design n'évolue pas / La partie photo arrière plus volumineuse que jamais.</PointFaible1>
+    <PointFaible2>Apple ne propose pas le mode le plus intrigant et intéressant du double module (Portrait) pour la sortie du terminal.</PointFaible2>
+    <PointFaible3>Qualité intrinsèque du module photo "zoom" 56 mm par rapport à celle du module 28 mm. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/apple-iphone-7-plus-p34249/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>iPhone SE	</Title>
+    <Image>/Image\apple-iphone-se.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>129 €</TopPrix>
+    <Conclusion>Avec cet iPhone SE Apple lâche tout simplement dans la nature l'un des smartphones compacts les plus puissants et doués en photo du marché. En sus, son autonomie ravira les possesseurs d'iPhone 4s ou 5 et 5s puisqu'elle se révèle être la plus solide des iPhone après celles des 6 Plus et 6s Plus. En revanche, le design est aujourd'hui un peu daté et l'ergonomie n'est plus tellement au gout du jour. Malgré tout, il est bon de retrouver un tel produit qui ne joue pas la course à la taille d'écran. </Conclusion>
+    <PointFort1>Compact, préhension aisée, utilisable à une main en toute circonstance... ce qui est trop rare de nos jours.</PointFort1>
+    <PointFort2>Qualité générale du capteur photo-vidéo arrière.</PointFort2>
+    <PointFort3>Rendu global de l'écran IPS. </PointFort3>
+    <PointFaible1>Manque de contraste de l'écran.</PointFaible1>
+    <PointFaible2>Qualité du capteur photo avant.</PointFaible2>
+    <PointFaible3>Design qui le confond avec la gamme 2013. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/apple-iphone-se-p30989/test.html</Article1>
+    <Article2 />
+  </Telephone>
+</ArrayOfTelephone>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfTelephone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Telephone>
+    <Title>OnePlus 6T	</Title>
+    <Image>/Image\oneplus-6t.jpg</Image>
+    <Note>★★★★★	</Note>
+    <TopPrix>517.79 €</TopPrix>
+    <Conclusion>Après un OnePlus 6 moins convaincant que ces prédécesseurs, le constructeur chinois revient à l'attaque avec un 6T qui impressionne. Si l'enveloppe n'a pas radicalement changé, tout a été amélioré à l'intérieur de ce 6T. La qualité photo est de nouveau au niveau de la concurrence, l'autonomie ne déçoit pas et les performances brutes sont toujours au rendez-vous. Comme souvent, OnePlus tient avec sa série T un téléphone plus mûr et plus équilibré que son prédécesseur. Un téléphone qui a tout pour aller bousculer les grands noms que sont les Galaxy Note 9, Mate 20 Pro ou iPhone XS... pour un prix moitié moins élevé. Pari réussi pour OnePlus. </Conclusion>
+    <PointFort1>Performances de haute volée.</PointFort1>
+    <PointFort2>Bel écran, bien calibré.</PointFort2>
+    <PointFort3>Photos réussies, de jour comme de nuit. </PointFort3>
+    <PointFaible1>Absence de port mini-jack.</PointFaible1>
+    <PointFaible2>Pas de certification d'étanchéité.</PointFaible2>
+    <PointFaible3>Capteur d'empreintes parfois capricieux.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/oneplus-6t-p46033/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>OnePlus 6	</Title>
+    <Image>/Image\oneplus-6.jpg</Image>
+    <Note>★★★★☆		</Note>
+    <TopPrix>383 €</TopPrix>
+    <Conclusion>Après un 5T qui "frôlait la perfection", OnePlus accouche cette année d'un modèle un peu moins convaincant. La moindre autonomie et les performances photo perfectibles (en basse lumière notamment, pour laquelle la marque n'a toujours pas réussi à trouver la bonne recette) font du OnePlus 6 une proposition moins intéressante techniquement que le Honor View 10. Les inconditionnels de la marque feront mieux d'attendre le 6T qui, aux dires de OnePlus, devrait sortir plus tard dans l'année</Conclusion>
+    <PointFort1>Performances de haute volée.</PointFort1>
+    <PointFort2>Écran (à encoche) de qualité.</PointFort2>
+    <PointFort3>Belles photos en plein jour. </PointFort3>
+    <PointFaible1>Ni port microSD ni certification d’étanchéité.</PointFaible1>
+    <PointFaible2>Photos de nuit insuffisantes.</PointFaible2>
+    <PointFaible3>Autonomie inférieure à celle du 5T. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/oneplus-6-p43783/test.html</Article1>
+    <Article2 />
+  </Telephone>
+</ArrayOfTelephone>

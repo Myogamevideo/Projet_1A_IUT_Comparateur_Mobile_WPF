@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<ArrayOfPrixTelephone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PrixTelephone>
+    <TitleVendeur>Fnac</TitleVendeur>
+    <ImageVendeur>/Image\fnac.jpg</ImageVendeur>
+    <Prix>1012</Prix>
+    <Telephone>Samsung Galaxy S10+</Telephone>
+  </PrixTelephone>
+  <PrixTelephone>
+    <TitleVendeur>Boulanger</TitleVendeur>
+    <ImageVendeur>/Image\boulanger.png</ImageVendeur>
+    <Prix>1009</Prix>
+    <Telephone>Samsung Galaxy S10+</Telephone>
+  </PrixTelephone>
+  <PrixTelephone>
+    <TitleVendeur>Darty</TitleVendeur>
+    <ImageVendeur>/Image\darty.png</ImageVendeur>
+    <Prix>1259</Prix>
+    <Telephone>Samsung Galaxy S10+</Telephone>
+  </PrixTelephone>
+  <PrixTelephone>
+    <TitleVendeur>Amazon</TitleVendeur>
+    <ImageVendeur>/Image\amazon.jpg</ImageVendeur>
+    <Prix>998</Prix>
+    <Telephone>Samsung Galaxy S10+</Telephone>
+  </PrixTelephone>
+  <PrixTelephone>
+    <TitleVendeur>Fnac</TitleVendeur>
+    <ImageVendeur>/Image\fnac.jpg</ImageVendeur>
+    <Prix>1012</Prix>
+    <Telephone>Sony Xperia XZ3</Telephone>
+  </PrixTelephone>
+  <PrixTelephone>
+    <TitleVendeur>Boulanger</TitleVendeur>
+    <ImageVendeur>/Image\boulanger.png</ImageVendeur>
+    <Prix>1009</Prix>
+    <Telephone>Sony Xperia XZ3</Telephone>
+  </PrixTelephone>
+  <PrixTelephone>
+    <TitleVendeur>Darty</TitleVendeur>
+    <ImageVendeur>/Image\darty.png</ImageVendeur>
+    <Prix>1259</Prix>
+    <Telephone>Sony Xperia XZ3</Telephone>
+  </PrixTelephone>
+  <PrixTelephone>
+    <TitleVendeur>Amazon</TitleVendeur>
+    <ImageVendeur>/Image\amazon.jpg</ImageVendeur>
+    <Prix>998</Prix>
+    <Telephone>Sony Xperia XZ3</Telephone>
+  </PrixTelephone>
+  <PrixTelephone>
+    <TitleVendeur>Fnac</TitleVendeur>
+    <ImageVendeur>/Image\fnac.jpg</ImageVendeur>
+    <Prix>1009</Prix>
+    <Telephone>Samsung Galaxy Note 9</Telephone>
+  </PrixTelephone>
+  <PrixTelephone>
+    <TitleVendeur>Boulanger</TitleVendeur>
+    <ImageVendeur>/Image\boulanger.png</ImageVendeur>
+    <Prix>663</Prix>
+    <Telephone>Samsung Galaxy Note 9</Telephone>
+  </PrixTelephone>
+  <PrixTelephone>
+    <TitleVendeur>Darty</TitleVendeur>
+    <ImageVendeur>/Image\darty.png</ImageVendeur>
+    <Prix>527</Prix>
+    <Telephone>Samsung Galaxy Note 9</Telephone>
+  </PrixTelephone>
+  <PrixTelephone>
+    <TitleVendeur>Amazon</TitleVendeur>
+    <ImageVendeur>/Image\amazon.jpg</ImageVendeur>
+    <Prix>634</Prix>
+    <Telephone>Samsung Galaxy Note 9</Telephone>
+  </PrixTelephone>
+</ArrayOfPrixTelephone>

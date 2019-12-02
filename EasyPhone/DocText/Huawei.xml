@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<ArrayOfTelephone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Telephone>
+    <Title>Huawei P30 Pro		</Title>
+    <Image>/Image\huawei-p30-pro.jpg</Image>
+    <Note>★★★★★</Note>
+    <TopPrix>989 €</TopPrix>
+    <Conclusion>Année après année, Huawei améliore sa recette et ce P30 Pro en est un bel exemple. De l'écran à la photo — en oubliant l'audio — le mobile photomaniaque ultra-haut de gamme de Huawei est une véritable réussite. Ses 3 optiques différentes, si elles ne sont pas exemptes de défauts, offrent une polyvalence précieuse en photo. Et le smartphone construit autour de tout ça offre une expérience impeccable. Reste à sortir les mille et quelques euros... </Conclusion>
+    <PointFort1>Construction de qualité.</PointFort1>
+    <PointFort2>Pléthore d’appareils photo de qualité.</PointFort2>
+    <PointFort3>Bel écran bien calibré. </PointFort3>
+    <PointFaible1>Pas de prise casque.</PointFaible1>
+    <PointFaible2>Capteur d'empreintes capricieux.</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/huawei-p30-pro-p50875/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Huawei P30		</Title>
+    <Image>/Image\huawei-p30.jpg</Image>
+    <Note>★★★★★	</Note>
+    <TopPrix>725 €</TopPrix>
+    <Conclusion>Avec son P30, Huawei nous propose un excellent photophone, aussi polyvalent que réussi. En plus d'un module photo principal de bonne qualité de jour comme de nuit, son très grand angle et son zoom 3x se révèlent convaincants. Son écran est bien calibré, son ergonomie agréable, ses performances sont irréprochables et sa prise casque est de bonne qualité. Au milieu de ce beau tableau, on regrette juste un léger — tout léger — décrochage en autonomie. Mais rien de grave. </Conclusion>
+    <PointFort1>Très bel écran.</PointFort1>
+    <PointFort2>Modules photo aussi polyvalents que réussis.</PointFort2>
+    <PointFort3>Présence d'une prise casque. </PointFort3>
+    <PointFaible1>Autonomie un peu légère.</PointFaible1>
+    <PointFaible2>Dos en verre qui attrape facilement les traces de doigts</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/huawei-p30-p50869/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Huawei Mate 20 Pro	</Title>
+    <Image>/Image\huawei-mate-20-pro.jpg</Image>
+    <Note>★★★★☆		</Note>
+    <TopPrix>647 €</TopPrix>
+    <Conclusion>Difficile de ne pas tomber sous le charme de ce Huawei Mate 20 Pro. Le constructeur chinois est parvenu à trouver un bel équilibre entre innovations technologiques utiles, design simple et efficace, et débauche de puissance. Ce téléphone est un vrai plaisir à utiliser au jour le jour et avoir le capteur d'empreintes sous l'écran devient vite une habitude. Malheureusement, et malgré toutes les promesses de Huawei, le Mate 20 Pro ne parvient pas à ravir la place de meilleur photophone 2018. Il est certes extrêmement polyvalent grâce à ses trois modules aux longueurs focales différentes et sa pléthore d'options logicielles, mais en qualité brute, il y a encore un tout petit peu de travail à faire. Ceci étant dit, le Mate 20 Pro reste l'un des meilleurs téléphones de l'année et sans aucun doute un compagnon de choix pour les mobinautes acharnés. </Conclusion>
+    <PointFort1>Autonomie très solide et recharge extrêmement rapide.</PointFort1>
+    <PointFort2>Écran parfaitement calibré et lisible en toutes circonstances.</PointFort2>
+    <PointFort3>Performances au top. </PointFort3>
+    <PointFaible1>Format propriétaire des cartes mémoire.</PointFaible1>
+    <PointFaible2>Qualité des haut-parleurs.</PointFaible2>
+    <PointFaible3>Pas de prise mini-jack.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/huawei-mate-20-pro-p49097/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Huawei P20 Pro		</Title>
+    <Image>/Image\huawei-p20-pro.jpg</Image>
+    <Note>★★★★☆		</Note>
+    <TopPrix>486.99 €</TopPrix>
+    <Conclusion>Avec le P20 Pro, Huawei signe un smartphone réussi de bout en bout. Certes, la photo n'est pas à la hauteur de ce que fait miroiter le fabricant, mais le résultat est tout de même bon. Pour le reste, c'est un quasi-sans-faute. Le Huawei P20 Pro n'a pas à rougir face à la concurrence, loin de là. Pour le moment, c'est l'un des meilleurs smartphones de l'année 2018. </Conclusion>
+    <PointFort1>Finitions et étanchéité IP67.</PointFort1>
+    <PointFort2>Écran Oled bien calibré.</PointFort2>
+    <PointFort3>Très bonnes performances générales. </PointFort3>
+    <PointFaible1>Pas de port microSD ni de jack 3,5 mm.</PointFaible1>
+    <PointFaible2>La "renaissance de la photo" attendra.</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/huawei-p20-pro-p43593/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Huawei Mate 10 Pro	</Title>
+    <Image>/Image\huawei-mate-10-pro.jpg</Image>
+    <Note>★★★★☆		</Note>
+    <TopPrix>283 €</TopPrix>
+    <Conclusion>Si le Huawei Mate 10 Pro aurait presque pu faire un sans-faute grâce à son écran impeccable, ses finitions réussies et son excellente autonomie, le dérapage du mobile en photo le prive aujourd'hui malheureusement de sa cinquième étoile. Dommage. </Conclusion>
+    <PointFort1>Écran Amoled fidèle.</PointFort1>
+    <PointFort2>Finitions exemplaires.</PointFort2>
+    <PointFort3>Performances de haute volée. </PointFort3>
+    <PointFaible1>Photo toujours décevante en basse luminosité.</PointFaible1>
+    <PointFaible2>Pas de prise jack 3,5 mm.</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/huawei-mate-10-pro-p41507/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Huawei P Smart+		</Title>
+    <Image>/Image\huawei-nova.jpg</Image>
+    <Note>★★★★☆		</Note>
+    <TopPrix>199 €</TopPrix>
+    <Conclusion>Avec son bel écran et son autonomie longue durée, le P Smart+ se révèle être un téléphone de qualité. Cependant, il est encore trop limité pour se distinguer de la concurrence, comme le Nokia 6.1, par exemple. De son côté, le Redmi Note 5 de Xiaomi fait aussi bien, voire mieux dans toutes les catégories et pour un prix bien inférieur. </Conclusion>
+    <PointFort1>Bonne ergonomie.</PointFort1>
+    <PointFort2>Dalle très bien calibrée.</PointFort2>
+    <PointFort3>Plus de deux jours d’autonomie. </PointFort3>
+    <PointFaible1>Taux de contraste un peu faiblard.</PointFaible1>
+    <PointFaible2>Prise mini-jack 3,5 mm moyenne.</PointFaible2>
+    <PointFaible3>Haut-parleur de mauvaise qualité.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/huawei-p-smart-p45281/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Huawei P20 		</Title>
+    <Image>/Image\huawei-p20.jpg</Image>
+    <Note>★★★☆☆		</Note>
+    <TopPrix>379 €</TopPrix>
+    <Conclusion>Le Huawei P20 est à l'image des générations précédentes des smartphones de la marque : globalement réussi, mais avec un gros bémol en photo. Aujourd'hui, ce point est déterminant pour départager des terminaux haut de gamme qui rivalisent de puissance. Autant se tourner vers un Honor View 10, aussi bien doté et meilleur en photo. </Conclusion>
+    <PointFort1>Écran bien calibré.</PointFort1>
+    <PointFort2>Finitions.</PointFort2>
+    <PointFort3>Lecteur d'empreintes à l'avant. </PointFort3>
+    <PointFaible1>Pas d'étanchéité.</PointFaible1>
+    <PointFaible2>Pas de jack 3,5 mm.</PointFaible2>
+    <PointFaible3>Partie photo médiocre en basse lumière.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/huawei-p20-p43591/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Huawei P10		</Title>
+    <Image>/Image\huawei-p10.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>230 €</TopPrix>
+    <Conclusion>Le Huawei P10 reste un smartphone très intéressant dans la course effrénée du marché haut de gamme. Quelques menues améliorations lui permettent de grappiller quelques points par rapport à son prédécesseur, mais cela ne suffit pas encore à en faire le smartphone idéal. Quelques progrès sont toujours attendus sur l'écran (passage à l'Oled), la photo en basse lumière et l'autonomie. Des critères prépondérants pour les terminaux huppés. Reste son atout charme si particulier : son capteur monochrome. Un argument très spécifique qui sait toucher les amateurs de clichés en noir et blanc. </Conclusion>
+    <PointFort1>Qualité des finitions.</PointFort1>
+    <PointFort2>Un lecteur d'empreintes efficace et enfin en façade.</PointFort2>
+    <PointFort3>Écran bien calibré. </PointFort3>
+    <PointFaible1>Dos en métal sensible aux rayures.</PointFaible1>
+    <PointFaible2>Écran LCD en manque de contraste.</PointFaible2>
+    <PointFaible3>Photos en basse lumière. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/huawei-p10-p37875/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Huawei P8 Lite		</Title>
+    <Image>/Image\p8-lite.jpg</Image>
+    <Note>★★★☆☆		</Note>
+    <TopPrix>152 €</TopPrix>
+    <Conclusion>Longtemps resté une excellente référence qualité / prix au sein de notre comparatif, le P8 Lite 2017 a fait son temps et est aujourd’hui moins séduisant qu’à sa sortie. Ses performances en photo sont désormais moins époustouflantes et son ergonomie est un peu daté quand on la compare à celle du Xiaomi Redmi 5 Plus. Cependant, le téléphone de Huawei reste une affaire intéressante avec son prix qui ne cesse de baisser. </Conclusion>
+    <PointFort1>Design et finitions propres, à défaut d'originalité.</PointFort1>
+    <PointFort2>Capteur d’empreintes efficace.</PointFort2>
+    <PointFort3>Écran globalement très correct. </PointFort3>
+    <PointFaible1>Léger souci de colorimétrie.</PointFaible1>
+    <PointFaible2>Un peu trop sujet aux reflets.</PointFaible2>
+    <PointFaible3>Algorithme de traitement photo un peu agressif. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/p8-lite-2017-p37309/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Huawei Y6 Pro		</Title>
+    <Image>/Image\huawei-y6-pro.jpg</Image>
+    <Note>★★☆☆☆	</Note>
+    <TopPrix>129.90 €</TopPrix>
+    <Conclusion>Faire un téléphone en dessous des 200 € n'est pas encore un jeu si facile. Cela exige de faire des compromis qui peuvent parfois gâcher l'expérience, et c'est ici malheureusement un peu le cas. Le Y6 Pro assure le minimum un peu partout, mais trébuche lourdement en photo, ce qui lui coûte sa troisième étoile. Si vous avez moins de 200 € à mettre dans un mobile, orientez-vous plutôt vers le P8 Lite 2017 : Huawei ne vous en voudra pas puisque c'est aussi un téléphone "maison". L'avantage d'avoir un catalogue fourni. </Conclusion>
+    <PointFort1>Autonomie correcte sans être transcendante.</PointFort1>
+    <PointFort2>Écran sans défaut rédhibitoire.</PointFort2>
+    <PointFort3>Coque en métal.</PointFort3>
+    <PointFaible1>Capacité photo très en dessous de la concurrence.</PointFaible1>
+    <PointFaible2>Taux d'occupation de l'écran un peu maigre.</PointFaible2>
+    <PointFaible3>Puissance audio trop faible</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/huawei-y6-pro-2017-p40673/test.html</Article1>
+    <Article2 />
+  </Telephone>
+</ArrayOfTelephone>

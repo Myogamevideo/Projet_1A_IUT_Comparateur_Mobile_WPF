@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<ArrayOfTelephone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Telephone>
+    <Title>Honor View 20	</Title>
+    <Image>/Image\honor-view-20.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>459 €</TopPrix>
+    <Conclusion>Au final, si ça n’avait pas été pour cet écran poinçonné, le View 20 n’aurait pas tant fait parler de lui. Une fois que l’on s’est fait à cette originalité ergonomique, elle s’efface pour laisser place à un mobile presque irréprochable... si ce n'est ce dérapage regrettable en photo. Point faible d’autant plus étonnant que le View 10 — dont il aurait pu être le digne descendant — était impeccable sur ce point. Cette année, pour le même prix, on préférera donc le OnePlus 6T. </Conclusion>
+    <PointFort1>Une autonomie imbattable.</PointFort1>
+    <PointFort2>Des photos de jour réussies.</PointFort2>
+    <PointFort3>Une sortie casque et des haut-parleurs soignés. </PointFort3>
+    <PointFaible1>La qualité des photos de nuit.</PointFaible1>
+    <PointFaible2>Pas de certification d'étanchéité ni de port microSD.</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/honor-view-20-p50025/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Honor View 10	</Title>
+    <Image>/Image\honor-view-10.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>309.99 €</TopPrix>
+    <Conclusion>Honor a clairement passé un cap avec le View 10. Ce smartphone vient rivaliser sans mal avec les terminaux plus haut de gamme. La progression en photo est ce qui lui permet de réellement venir jouer dans la cour des grands. Il n'a pas grand-chose à envier à des concurrents comme le Huawei Mate 10 Pro ou le OnePlus 5T, si ce n'est leur écran Oled. Une belle réussite.</Conclusion>
+    <PointFort1>Écran LCD fidèle.</PointFort1>
+    <PointFort2>Lecteur d'empreinte à l'avant.</PointFort2>
+    <PointFort3>Belles performances en photo. </PointFort3>
+    <PointFaible1>Pas d'étanchéité.</PointFaible1>
+    <PointFaible2>Partie audio moyenne.</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/honor-view-10-p42103/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Honor 10	</Title>
+    <Image>/Image\honor-10.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>267 €</TopPrix>
+    <Conclusion>Si ce Honor 10 loupe de justesse les 5 étoiles, il se présente tout de même comme un très bon smartphone. Avec son autonomie de marathonien et ses capacités en photo, il convainc sans trop faire d'effort. Rajoutez à ça un écran à la colorimétrie quasi impeccable et vous obtenez un smartphone très séduisant. Dommage que Honor n'ait pas daigné ajouter un port microSD, un manque qui en refroidira plus d'un... </Conclusion>
+    <PointFort1>Colorimétrie absolument impeccable.</PointFort1>
+    <PointFort2>Autonomie très solide.</PointFort2>
+    <PointFort3>Une bonne qualité photo, de jour comme de nuit. </PointFort3>
+    <PointFaible1>Pas d'étanchéité.</PointFaible1>
+    <PointFaible2>Pas de port microSD.</PointFaible2>
+    <PointFaible3>Pas d'écran Oled. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/honor-10-p44079/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Honor Play	</Title>
+    <Image>/Image\honor-play.jpg</Image>
+    <Note>★★★★☆</Note>
+    <TopPrix>258.52 €</TopPrix>
+    <Conclusion>Ce Honor Play est assez réussi dans l'ensemble. Le pari d'offrir un smartphone puissant à un tarif abordable est rempli. Le Play devrait faire pas mal d'ombre à son grand-frère le Honor 10 et s'impose comme un smartphone au très bon rapport qualité/prix</Conclusion>
+    <PointFort1>Finitions sans reproche.</PointFort1>
+    <PointFort2>Écran bien calibré.</PointFort2>
+    <PointFort3>Sortie casque satisfaisante. </PointFort3>
+    <PointFaible1>Pas d'étanchéité.</PointFaible1>
+    <PointFaible2>IA pas toujours bénéfique en photo.</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/honor-play-p45751/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Honor 8X	</Title>
+    <Image>/Image\honor-8x.jpg</Image>
+    <Note>★★★★☆	</Note>
+    <TopPrix>201.21 €</TopPrix>
+    <Conclusion>Au final, ce Honor 8X offre des performances tout à fait honnêtes dans un corps plutôt élégant. Encore une fois, Honor montre son savoir-faire sur un segment tarifaire complexe. Mais face à la concurrence, il va être difficile pour lui de se faire une place, surtout quand le Xiaomi Redmi Note 5 fait aussi bien pour moins cher, ou quand le Pocophone F1 et le Honor Play, vendus quelques dizaines d'euros de plus, font moins de concessions</Conclusion>
+    <PointFort1>Construction et finitions au top.</PointFort1>
+    <PointFort2>Expérience fluide et efficace.</PointFort2>
+    <PointFort3>Autonomie très solide.</PointFort3>
+    <PointFaible1>Qualité photo pas au niveau des meilleurs concurrents dans cette fourchette de prix.</PointFaible1>
+    <PointFaible2>Port micro-USB.</PointFaible2>
+    <PointFaible3>Trop d'apps préinstallées.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/honor-8x-p45963/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Honor 8 Pro	</Title>
+    <Image>/Image\8-pro.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>414.40 €</TopPrix>
+    <Conclusion>Au bout du compte, ce Honor 8 Pro livre une expérience tout à fait convenable malgré deux trois petit faux pas sur l’écran et la photo. Le mobile tient tête sans trop de problèmes aux P10 et P10 Plus, mais en s’installant sur ce segment tarifaire, Honor prend tout de même des risques en abandonnant la recette qui a fait son succès pour se frotter à des références qui tutoient souvent la perfection. On pense par exemple au OnePlus 3T qui, pour moins cher, livre des résultats plus intéressants à peu près partout. </Conclusion>
+    <PointFort1>Dalle bien calibrée après correction.</PointFort1>
+    <PointFort2>Finitions impeccables.</PointFort2>
+    <PointFort3>Rendu photo plutôt bon. </PointFort3>
+    <PointFaible1>Taux d'occupation de l'écran maigrichon.</PointFaible1>
+    <PointFaible2>Autonomie un peu légère pour la capacité de la batterie.</PointFaible2>
+    <PointFaible3>Double capteur photo mal exploité.</PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/8-pro-p38523/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Honor 10 Lite	</Title>
+    <Image>/Image\honor-10-lite.jpg</Image>
+    <Note>★★★☆☆</Note>
+    <TopPrix>185.74 €</TopPrix>
+    <Conclusion>Sans grande surprise, ce Honor 10 Lite prend exactement la même note que son cousin le P Smart 2019. Il faut dire que les deux téléphones sont des quasi-clones. On peut donc recycler notre conclusion et affirmer que ce Honor 10 Lite est un mobile efficace à défaut d’être original. Il a aussi l’avantage d’être vendu 20 € moins cher que le P Smart. Mais à ce prix, le Xiaomi Redmi Note 6 Pro fait toujours un poil mieux. </Conclusion>
+    <PointFort1>Autonomie.</PointFort1>
+    <PointFort2>Finitions de qualité.</PointFort2>
+    <PointFort3>Qualité de l'écran. </PointFort3>
+    <PointFaible1>Sortie mini-jack qui manque de punch.</PointFaible1>
+    <PointFaible2>Qualité des photos à revoir.</PointFaible2>
+    <PointFaible3 />
+    <Article1>https://www.lesnumeriques.com/telephone-portable/honor-10-lite-p50027/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Honor 9 Lite	</Title>
+    <Image>/Image\honor-9-lite.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>149.89 €</TopPrix>
+    <Conclusion>Que dire à propos du Honor 9 Lite qui n'ait pas été dit à propos des nombreux autres smartphones de la marque proposés à ce prix ? Eh bien pas grand-chose de plus. Honor signe encore un téléphone bien fini, qui s'en sort bien dans la plupart des catégories, mais reste un cran en deçà de l'indétrônable Huawei P8 Lite 2017. Une conclusion qui tourne au refrain depuis un an. </Conclusion>
+    <PointFort1>Construction et finitions au top.</PointFort1>
+    <PointFort2>Écran de qualité et bien calibré (après bidouillages).</PointFort2>
+    <PointFort3>Autonomie solide.</PointFort3>
+    <PointFaible1>Port micro-USB.</PointFaible1>
+    <PointFaible2>Sortie casque à revoir.</PointFaible2>
+    <PointFaible3>Photo en basse luminosité. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/honor-9-lite-p42365/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Honor 7C 	</Title>
+    <Image>/Image\honor-7c.jpg</Image>
+    <Note>★★★☆☆	</Note>
+    <TopPrix>122.71 €</TopPrix>
+    <Conclusion>De prime abord, le Honor 7C est un téléphone très séduisant. Pour moins de 200 €, il offre un écran assez convaincant, une excellente autonomie et des finitions impeccables. Malheureusement, ses faiblesses en audio et surtout en photo ne lui permettent pas de se hisser au niveau d'autres références comme le Xiaomi Redmi 5 Plus ou même le Huawei P8 Lite 2017 qui, malgré son âge avancé, fait globalement mieux. </Conclusion>
+    <PointFort1>Autonomie très solide.</PointFort1>
+    <PointFort2>Écran propre et bien calibré (après passage dans les paramètres).</PointFort2>
+    <PointFort3>Construction de qualité. </PointFort3>
+    <PointFaible1>Photos médiocres.</PointFaible1>
+    <PointFaible2>Expérience audio décevante.</PointFaible2>
+    <PointFaible3>Définition HD maigrelette sur un écran de 6 pouces. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/honor-7c-p43983/test.html</Article1>
+    <Article2 />
+  </Telephone>
+  <Telephone>
+    <Title>Honor 7A	</Title>
+    <Image>/Image\honor-7a.jpg</Image>
+    <Note>★★☆☆☆	</Note>
+    <TopPrix>99.90 €</TopPrix>
+    <Conclusion>Sortir un smartphone à 139 € est toujours un risque. En effet, même si le marché du mobile a largement tiré les prix vers le bas ces dernières années, la barre des 150 € est toujours critique. Ce Honor 7A parvient à assurer le strict minimum en étant "un petit 3" comme on dit dans le jargon. En effet, les performances photo médiocres et les ralentissements trop fréquents ternissent le bilan. Cependant à ce prix-là, c'est probablement le téléphone le plus intéressant. Si vous pouvez mettre une quarantaine d'euros de plus, optez plutôt pour un Honor 7C ou un 6X qui vous offriront une bien meilleure expérience. </Conclusion>
+    <PointFort1>Construction de qualité.</PointFort1>
+    <PointFort2>Écran correctement calibré (une fois le bon profil sélectionné).</PointFort2>
+    <PointFort3>Autonomie intéressante dans cette catégorie de smartphones</PointFort3>
+    <PointFaible1>Prise micro-USB.</PointFaible1>
+    <PointFaible2>Ralentissements trop fréquents.</PointFaible2>
+    <PointFaible3>Photos aux couleurs complètement fantaisistes. </PointFaible3>
+    <Article1>https://www.lesnumeriques.com/telephone-portable/honor-7a-p43889/test.html</Article1>
+    <Article2 />
+  </Telephone>
+</ArrayOfTelephone>

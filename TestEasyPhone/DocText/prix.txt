@@ -1,0 +1,48 @@
+﻿Fnac
+Image\fnac.jpg
+1012
+Samsung Galaxy S10+
+Boulanger
+Image\boulanger.png
+1009
+Samsung Galaxy S10+
+Darty
+Image\darty.png
+1259
+Samsung Galaxy S10+
+Amazon
+Image\amazon.jpg
+998
+Samsung Galaxy S10+
+Fnac
+Image\fnac.jpg
+1012
+Sony Xperia XZ3
+Boulanger
+Image\boulanger.png
+1009
+Sony Xperia XZ3
+Darty
+Image\darty.png
+1259
+Sony Xperia XZ3
+Amazon
+Image\amazon.jpg
+998
+Sony Xperia XZ3
+Fnac
+Image\fnac.jpg
+1009
+Samsung Galaxy Note 9
+Boulanger
+Image\boulanger.png
+663
+Samsung Galaxy Note 9
+Darty
+Image\darty.png
+527
+Samsung Galaxy Note 9
+Amazon
+Image\amazon.jpg
+634
+Samsung Galaxy Note 9
